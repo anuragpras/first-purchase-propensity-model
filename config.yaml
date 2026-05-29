@@ -1,0 +1,24 @@
+project:
+  name: first-purchase-propensity-model
+  random_state: 42
+
+paths:
+  train_data: data/sample_train.csv
+  predict_data: data/sample_predict.csv
+  output_dir: outputs
+  model_dir: models
+
+data:
+  user_id_col: user_id
+  target_col: converted
+  test_size: 0.2
+
+model:
+  algorithm: lightgbm
+  top_percent_to_export: 10
+  probability_buckets:
+    - [0.80, 1.00, Very High]
+    - [0.60, 0.80, High]
+    - [0.40, 0.60, Medium]
+    - [0.20, 0.40, Low]
+    - [0.00, 0.20, Very Low]

@@ -1,0 +1,801 @@
+user_id,signup_day,signup_hour,country,city,gender,age,device_type,acquisition_source,campaign_group,lifetime_sessions,sessions_last_7d,avg_session_minutes,notification_views,notification_clicks,used_free_trial,viewed_pricing_page,added_payment_method,support_interaction,positive_interaction,negative_interaction,wallet_balance
+500000,Sat,11,United States,Hyderabad,Male,38.0,Android,organic,lookalike,9,0,5.58,3,0,1,1,0,0,0,0,74.64
+500001,Sat,3,India,Mumbai,Male,26.0,Android,affiliate,remarketing,6,2,7.41,7,0,1,0,0,1,0,0,33.06
+500002,Sat,9,India,Hyderabad,Female,38.0,iOS,organic,lookalike,7,2,6.79,5,0,1,0,1,0,0,0,197.03
+500003,Sat,16,India,Chennai,Male,35.0,Android,email,remarketing,5,4,4.79,2,3,1,0,0,1,1,0,93.04
+500004,Thu,1,India,Mumbai,Female,37.0,Android,organic,lookalike,6,2,7.61,0,3,1,0,0,1,1,0,35.33
+500005,Wed,19,Canada,Chennai,Female,29.0,Android,google,crm_push,8,1,4.75,2,1,0,0,0,0,1,0,54.94
+500006,Sat,21,India,Pune,Male,24.0,iOS,referral,brand,6,4,11.32,6,1,1,0,0,0,1,0,29.18
+500007,Mon,5,India,London,Male,34.0,iOS,google,remarketing,3,2,6.25,7,1,1,0,0,1,0,0,81.48
+500008,Sun,4,India,Chennai,Female,37.0,Android,google,none,4,3,3.23,0,1,0,0,0,0,0,0,132.35
+500009,Thu,7,India,London,Male,46.0,Android,organic,generic,3,2,8.18,3,0,1,0,0,0,1,0,33.59
+500010,Tue,15,United States,Bengaluru,Male,21.0,Android,organic,lookalike,4,1,9.58,5,0,1,1,0,0,1,0,136.51
+500011,Wed,2,India,Hyderabad,Female,32.0,Android,organic,generic,3,0,1.9,5,2,1,0,0,1,1,0,209.27
+500012,Thu,8,UAE,Pune,Male,36.0,Android,meta,remarketing,5,3,7.07,2,0,0,0,0,0,0,0,40.21
+500013,Sat,3,UAE,Pune,Male,37.0,iOS,organic,remarketing,5,3,3.02,4,1,1,1,0,0,0,1,21.02
+500014,Thu,0,India,London,Female,22.0,Android,organic,lookalike,3,0,6.77,4,1,0,0,0,0,0,0,229.82
+500015,Sun,5,India,Bengaluru,Female,37.0,Android,google,generic,5,1,9.11,5,3,0,1,1,0,0,0,4.5
+500016,Sat,17,United States,Delhi,Male,20.0,Android,organic,brand,10,0,6.41,4,1,0,0,0,0,0,0,52.83
+500017,Fri,3,India,Hyderabad,Female,20.0,iOS,email,brand,5,3,4.0,1,1,0,0,0,0,0,0,120.86
+500018,Sat,11,India,Chennai,Male,42.0,iOS,affiliate,brand,11,4,6.98,5,1,1,0,1,0,1,0,3.76
+500019,Sun,13,India,Dubai,Male,24.0,Android,referral,none,3,3,7.73,1,1,0,0,0,0,0,0,81.82
+500020,Mon,2,India,Dubai,Female,39.0,Web,affiliate,none,3,1,8.34,3,1,1,0,0,1,1,1,146.13
+500021,Wed,18,India,Bengaluru,Female,33.0,Android,meta,brand,5,3,4.58,0,4,0,0,0,0,1,0,28.31
+500022,Thu,1,United States,Chennai,Female,40.0,Android,organic,brand,3,3,5.4,5,0,0,1,0,0,0,0,29.72
+500023,Wed,23,India,London,Female,27.0,Android,meta,lookalike,6,2,9.3,5,0,0,0,0,0,1,0,2.75
+500024,Tue,1,Canada,Bengaluru,Male,28.0,Android,organic,brand,2,1,2.28,2,1,1,0,0,0,1,0,64.06
+500025,Fri,16,Canada,Mumbai,Female,35.0,iOS,google,remarketing,7,2,7.95,2,0,1,1,0,0,0,0,5.07
+500026,Sat,4,India,Dubai,Female,41.0,iOS,email,none,6,2,8.19,4,0,0,0,0,0,0,0,0.18
+500027,Sun,0,United Kingdom,Bengaluru,Unknown,40.0,Android,referral,remarketing,6,1,2.26,3,3,0,1,1,0,1,0,10.86
+500028,Mon,15,India,Bengaluru,Male,26.0,Android,google,lookalike,5,0,1.02,4,0,1,1,0,0,0,0,45.63
+500029,Sat,5,India,Hyderabad,Male,47.0,Android,organic,brand,7,0,3.23,1,1,1,0,0,0,0,0,109.86
+500030,Sun,4,India,Dubai,Female,22.0,Android,email,none,2,0,7.85,3,1,0,0,0,0,0,0,89.94
+500031,Mon,11,United Kingdom,Bengaluru,Unknown,29.0,Android,organic,lookalike,3,4,7.73,6,0,1,0,1,0,0,0,29.96
+500032,Tue,16,UAE,Chennai,Female,40.0,Android,affiliate,lookalike,4,3,5.96,6,1,0,0,0,0,0,0,30.97
+500033,Thu,22,India,Bengaluru,Male,34.0,Android,google,crm_push,5,0,14.62,4,2,1,0,0,0,0,0,85.74
+500034,Fri,10,United States,Delhi,Female,43.0,Android,email,remarketing,5,2,10.78,4,2,1,1,0,0,1,0,98.3
+500035,Mon,18,India,Dubai,Male,30.0,iOS,email,generic,5,4,5.47,3,1,1,0,0,0,0,0,102.66
+500036,Sat,1,India,Pune,Male,38.0,iOS,google,lookalike,2,3,12.72,4,0,0,1,1,1,0,0,13.8
+500037,Wed,15,India,Hyderabad,Female,23.0,iOS,google,lookalike,2,4,1.51,4,1,0,1,0,0,0,0,5.39
+500038,Tue,18,India,Delhi,Male,24.0,Web,referral,lookalike,4,1,3.53,2,0,0,0,0,0,0,0,56.19
+500039,Sat,7,Canada,Chennai,Male,27.0,Android,organic,none,4,1,4.92,1,2,1,0,0,0,0,0,40.69
+500040,Mon,3,India,Hyderabad,Unknown,22.0,Android,organic,none,10,0,3.69,4,1,1,0,0,0,0,0,211.92
+500041,Sat,5,Australia,London,Male,22.0,iOS,organic,brand,7,1,2.46,6,2,0,0,0,0,0,0,0.46
+500042,Thu,23,Australia,Dubai,Female,29.0,Android,email,generic,3,0,4.04,6,0,0,0,0,0,0,0,132.42
+500043,Fri,19,India,Pune,Male,32.0,Android,organic,brand,5,4,2.41,0,2,0,1,0,0,0,0,385.08
+500044,Sun,2,India,London,Male,32.0,Android,meta,brand,8,4,6.19,2,0,1,0,0,0,1,0,151.97
+500045,Mon,8,India,Bengaluru,Male,37.0,Android,google,generic,7,3,6.39,3,3,0,0,0,0,0,0,134.9
+500046,Thu,22,India,Bengaluru,Female,30.0,Android,referral,crm_push,6,2,9.95,4,0,1,0,0,1,1,0,1.82
+500047,Thu,18,India,Chennai,Female,20.0,Android,google,remarketing,6,0,20.87,2,2,1,0,0,0,0,0,160.44
+500048,Tue,0,United Kingdom,Mumbai,Unknown,28.0,Android,organic,none,8,3,21.56,3,1,0,0,0,0,1,0,70.19
+500049,Sat,2,India,London,Male,36.0,iOS,referral,remarketing,4,4,4.3,2,0,1,0,0,0,0,0,84.9
+500050,Thu,22,UAE,Dubai,Male,33.0,Android,organic,remarketing,6,2,4.63,2,1,0,0,0,0,0,1,40.46
+500051,Tue,0,India,Pune,Male,20.0,Android,referral,brand,5,3,6.95,1,0,1,1,0,0,0,0,230.6
+500052,Wed,14,India,Bengaluru,Male,22.0,Android,organic,brand,5,2,2.66,4,0,0,0,0,0,0,0,59.23
+500053,Sat,4,India,Dubai,Female,27.0,Android,organic,brand,8,2,6.26,0,1,0,0,0,0,1,0,76.91
+500054,Tue,15,UAE,Hyderabad,Female,37.0,iOS,email,crm_push,3,1,2.91,5,1,0,1,1,0,0,0,18.75
+500055,Mon,4,United States,Chennai,Female,28.0,Android,meta,brand,7,0,2.25,2,0,1,0,0,0,0,0,65.34
+500056,Tue,18,India,London,Female,35.0,iOS,organic,generic,4,0,3.25,4,1,1,1,0,0,0,0,19.94
+500057,Fri,11,India,Hyderabad,Female,38.0,iOS,affiliate,brand,7,1,2.02,2,1,0,1,0,0,0,0,9.73
+500058,Wed,12,UAE,Mumbai,Female,36.0,Android,meta,brand,3,3,12.88,2,1,0,0,0,0,0,1,57.9
+500059,Tue,7,India,Bengaluru,Male,34.0,Android,organic,lookalike,4,1,9.81,3,1,1,0,0,0,0,0,149.72
+500060,Wed,16,India,Hyderabad,Male,18.0,Android,google,none,8,1,11.6,4,1,0,1,0,0,0,0,167.91
+500061,Sat,11,India,Chennai,Female,23.0,Android,referral,generic,6,0,2.75,4,1,0,0,0,0,1,1,221.14
+500062,Tue,13,United Kingdom,Pune,Female,34.0,Android,organic,lookalike,2,1,6.36,1,1,0,0,0,0,0,0,220.25
+500063,Thu,10,United Kingdom,Chennai,Female,24.0,Android,affiliate,lookalike,3,1,2.21,3,0,0,0,0,0,1,0,277.03
+500064,Thu,22,India,Mumbai,Male,30.0,Android,organic,brand,6,2,3.58,4,1,0,1,1,1,0,0,102.34
+500065,Sat,0,India,Bengaluru,Female,41.0,Android,organic,crm_push,6,1,13.25,3,2,0,1,0,0,0,0,9.46
+500066,Mon,1,United Kingdom,Chennai,Male,22.0,Android,organic,generic,3,3,1.85,3,0,0,1,0,0,0,0,76.95
+500067,Thu,15,India,London,Female,33.0,Android,organic,brand,3,2,6.25,3,0,0,1,0,0,1,0,75.1
+500068,Fri,1,United Kingdom,Dubai,Male,42.0,Web,organic,remarketing,7,0,1.81,2,2,0,1,0,0,0,0,9.07
+500069,Thu,0,India,Bengaluru,Male,18.0,iOS,organic,remarketing,3,1,3.73,1,2,1,0,0,0,0,0,97.08
+500070,Fri,0,India,Mumbai,Female,25.0,Android,google,crm_push,4,3,7.89,2,0,0,0,0,0,1,0,42.76
+500071,Tue,9,India,London,Female,24.0,iOS,google,generic,9,2,10.44,3,2,1,1,0,0,1,0,5.82
+500072,Sat,17,India,Dubai,Female,34.0,iOS,email,generic,5,2,4.82,6,0,0,1,1,0,0,0,218.74
+500073,Tue,21,India,London,Female,29.0,Android,affiliate,lookalike,8,2,10.63,4,1,0,0,0,0,0,0,17.03
+500074,Fri,20,India,Delhi,Male,35.0,Android,organic,remarketing,7,1,6.01,2,0,0,1,0,0,0,0,10.59
+500075,Mon,20,India,Chennai,Female,22.0,Android,meta,none,4,4,8.57,0,0,0,0,1,0,0,0,18.12
+500076,Sun,1,United Kingdom,Hyderabad,Female,27.0,Android,organic,remarketing,6,1,4.16,2,0,1,0,1,0,0,0,115.61
+500077,Thu,22,United States,Hyderabad,Female,27.0,Android,google,remarketing,2,3,0.45,2,1,1,0,0,1,0,0,117.99
+500078,Fri,2,India,Mumbai,Male,31.0,Android,email,generic,2,0,4.56,3,0,1,0,0,0,0,0,7.17
+500079,Thu,13,India,Bengaluru,Male,32.0,Web,referral,brand,8,1,16.76,7,1,0,1,0,0,0,0,57.52
+500080,Sun,11,India,Dubai,Male,26.0,Android,referral,remarketing,5,1,2.41,3,1,1,0,0,0,1,0,93.73
+500081,Wed,23,India,Delhi,Male,32.0,Android,organic,remarketing,8,1,8.4,7,0,0,0,0,0,0,0,91.9
+500082,Mon,8,India,Pune,Male,32.0,iOS,meta,crm_push,7,4,4.68,2,0,1,0,0,0,0,0,88.92
+500083,Tue,12,India,London,Male,18.0,Android,google,lookalike,3,3,2.36,4,1,1,0,0,0,1,0,44.17
+500084,Fri,9,India,Bengaluru,Female,33.0,iOS,google,crm_push,4,1,8.08,4,2,0,1,0,0,1,0,42.09
+500085,Wed,5,India,Hyderabad,Female,32.0,Android,referral,brand,4,3,1.52,3,1,0,0,0,0,0,0,201.45
+500086,Sat,4,India,Dubai,Male,49.0,iOS,organic,crm_push,6,2,2.46,5,1,1,0,0,0,1,0,245.09
+500087,Fri,17,India,London,Male,33.0,Android,meta,none,0,1,3.92,5,1,1,0,0,1,0,0,15.52
+500088,Sat,6,India,Mumbai,Female,30.0,Android,google,crm_push,4,2,7.32,3,2,0,0,0,0,0,0,432.31
+500089,Sun,15,India,Delhi,Male,42.0,iOS,referral,none,6,1,6.02,0,1,0,1,0,0,1,0,11.84
+500090,Fri,10,India,London,Male,26.0,Android,organic,remarketing,2,3,5.54,1,0,0,0,0,0,0,0,123.49
+500091,Sat,20,India,Hyderabad,Female,24.0,Android,google,remarketing,4,3,7.02,3,0,0,1,0,0,0,0,8.81
+500092,Sun,9,India,Hyderabad,Male,28.0,iOS,organic,lookalike,6,0,4.66,5,2,0,0,0,0,0,0,78.26
+500093,Fri,7,India,Chennai,Female,35.0,Android,google,none,8,2,3.82,0,2,1,0,0,0,1,0,64.61
+500094,Fri,4,India,Bengaluru,Male,47.0,Web,meta,lookalike,4,2,10.29,1,1,1,0,0,0,0,0,531.81
+500095,Tue,0,India,Mumbai,Male,33.0,Android,organic,crm_push,6,2,9.54,4,3,0,0,0,0,0,0,58.42
+500096,Tue,2,India,Delhi,Female,29.0,Android,meta,generic,5,1,8.61,3,1,0,0,0,0,0,0,80.35
+500097,Tue,14,India,Bengaluru,Male,27.0,Android,email,generic,4,0,6.0,1,1,0,0,0,0,0,0,101.98
+500098,Mon,9,India,Pune,Male,18.0,Android,organic,lookalike,7,1,10.16,3,2,1,0,0,0,0,0,103.43
+500099,Sat,0,Canada,Hyderabad,Female,18.0,Android,email,brand,4,2,5.25,1,2,0,0,0,0,1,0,81.22
+500100,Tue,9,India,Bengaluru,Female,31.0,Android,affiliate,lookalike,6,2,7.92,2,0,0,0,0,0,0,0,122.83
+500101,Thu,15,India,Chennai,Male,25.0,Android,organic,none,6,4,7.28,1,1,0,0,0,0,0,0,105.39
+500102,Tue,11,India,Hyderabad,Male,31.0,Android,organic,crm_push,3,1,4.99,2,1,0,1,0,0,1,0,36.73
+500103,Fri,4,India,Bengaluru,Male,26.0,Android,google,none,6,1,18.47,2,0,0,0,0,0,0,0,10.34
+500104,Fri,21,India,Mumbai,Male,24.0,iOS,organic,generic,7,2,20.07,1,1,0,0,0,0,0,0,186.73
+500105,Thu,22,United Kingdom,Dubai,Unknown,21.0,Android,email,none,3,1,5.5,1,1,0,1,0,0,1,0,0.79
+500106,Wed,10,India,Chennai,Male,25.0,Android,organic,crm_push,4,3,9.17,2,0,0,0,0,0,0,0,18.22
+500107,Fri,20,United States,Delhi,Male,48.0,Web,organic,brand,7,6,1.79,4,0,0,0,0,0,0,0,63.88
+500108,Fri,4,India,Mumbai,Male,28.0,iOS,google,remarketing,5,0,12.77,5,4,0,0,1,0,0,0,123.95
+500109,Tue,5,United States,London,Female,29.0,Android,email,none,7,1,5.7,4,1,1,0,1,0,0,0,19.22
+500110,Tue,1,India,Hyderabad,Unknown,30.0,Android,meta,lookalike,6,2,5.42,1,0,0,0,0,0,0,0,80.59
+500111,Fri,21,UAE,Hyderabad,Female,38.0,Android,meta,remarketing,2,0,3.75,5,0,0,0,0,0,0,0,37.99
+500112,Thu,9,Australia,Bengaluru,Male,33.0,Android,google,generic,5,2,7.58,3,2,0,0,1,0,0,0,0.28
+500113,Fri,22,Canada,Chennai,Unknown,30.0,Android,meta,none,10,1,6.67,3,1,0,0,1,0,0,0,100.46
+500114,Tue,3,India,Bengaluru,Male,29.0,Android,google,brand,7,2,6.26,4,2,1,0,0,0,0,0,78.46
+500115,Sat,11,India,Bengaluru,Male,28.0,Android,email,none,6,4,1.88,4,1,0,0,0,0,1,0,4.57
+500116,Tue,4,UAE,Hyderabad,Male,18.0,Android,referral,crm_push,6,1,1.12,2,1,0,0,0,0,0,0,162.93
+500117,Sun,22,India,Delhi,Female,26.0,Android,organic,lookalike,7,0,2.65,5,1,1,0,1,0,0,0,14.93
+500118,Tue,15,Canada,London,Male,45.0,Android,organic,generic,4,5,11.52,1,2,0,1,0,0,0,0,130.51
+500119,Sun,23,India,Pune,Male,42.0,Android,meta,brand,3,2,4.25,2,1,1,0,0,0,0,0,41.17
+500120,Thu,18,India,Pune,Female,23.0,Android,referral,crm_push,10,4,11.57,5,0,0,0,0,0,1,0,19.69
+500121,Fri,14,United States,Pune,Female,23.0,Android,referral,crm_push,9,2,2.52,6,2,0,0,0,0,0,0,70.44
+500122,Tue,18,India,Pune,Female,46.0,Android,organic,none,7,4,13.05,1,3,1,0,0,0,0,0,47.99
+500123,Wed,11,UAE,Mumbai,Male,22.0,Android,google,generic,4,4,10.25,2,0,1,0,0,1,0,0,184.57
+500124,Sat,0,India,Delhi,Male,19.0,iOS,email,crm_push,5,2,13.0,6,1,0,0,0,0,1,0,82.67
+500125,Tue,9,United Kingdom,Pune,Female,25.0,Android,affiliate,remarketing,2,1,11.4,2,0,1,0,0,0,0,0,137.33
+500126,Mon,7,India,London,Female,30.0,Android,organic,remarketing,2,3,5.59,1,3,0,0,0,0,0,0,3.44
+500127,Sun,20,India,Delhi,Female,35.0,Android,google,brand,5,0,13.52,2,3,0,1,0,0,0,0,51.6
+500128,Wed,2,India,Chennai,Female,23.0,Android,google,remarketing,5,0,3.79,0,1,0,0,0,0,0,0,31.49
+500129,Tue,11,India,Delhi,Male,37.0,Android,organic,generic,7,3,9.17,3,1,0,0,0,0,0,0,13.93
+500130,Mon,6,India,Pune,Male,26.0,Android,referral,brand,4,0,3.78,1,0,0,1,0,0,0,0,292.68
+500131,Thu,19,India,Chennai,Male,29.0,iOS,organic,lookalike,4,1,17.45,2,3,1,0,0,0,0,0,93.67
+500132,Mon,5,India,Mumbai,Female,43.0,Android,referral,crm_push,2,4,3.54,0,3,1,1,0,0,0,0,29.58
+500133,Fri,4,India,Bengaluru,Female,45.0,Web,organic,remarketing,5,1,2.85,5,1,0,0,0,0,0,0,45.15
+500134,Sat,13,India,Bengaluru,Female,36.0,Android,affiliate,lookalike,9,1,0.35,3,0,1,1,0,1,1,0,58.06
+500135,Fri,6,United Kingdom,Mumbai,Female,33.0,Web,meta,crm_push,3,0,12.99,2,2,0,0,0,0,0,0,1.23
+500136,Thu,14,India,Hyderabad,Female,18.0,Web,google,generic,5,1,15.38,2,1,0,0,1,0,0,0,119.08
+500137,Thu,15,India,London,Female,44.0,iOS,meta,lookalike,5,2,8.71,3,3,1,1,0,0,0,0,131.8
+500138,Thu,22,India,Pune,Female,32.0,Android,google,brand,6,2,14.37,1,1,0,1,0,0,0,0,103.63
+500139,Mon,18,India,Chennai,Female,32.0,Android,organic,generic,8,1,9.58,4,3,0,0,0,0,0,0,37.86
+500140,Mon,20,UAE,Hyderabad,Male,30.0,Android,organic,remarketing,7,2,4.44,3,0,0,0,0,0,0,0,8.39
+500141,Sun,1,India,Delhi,Male,30.0,iOS,referral,lookalike,6,4,7.22,2,2,0,0,0,0,0,0,0.4
+500142,Thu,1,India,Bengaluru,Male,18.0,iOS,organic,none,5,3,3.05,2,2,0,1,0,1,0,0,45.87
+500143,Mon,20,India,Hyderabad,Male,25.0,Android,google,generic,3,3,9.31,1,1,0,0,0,0,0,0,239.16
+500144,Fri,20,India,London,Male,28.0,iOS,meta,generic,6,3,6.69,8,1,0,0,0,0,0,0,50.18
+500145,Tue,8,India,Delhi,Female,24.0,Android,referral,lookalike,9,4,6.99,0,2,0,0,0,0,0,0,182.78
+500146,Wed,23,United Kingdom,Delhi,Female,28.0,Android,organic,remarketing,4,5,12.46,1,2,1,0,0,0,0,0,72.31
+500147,Thu,23,India,Mumbai,Female,22.0,iOS,referral,generic,6,2,6.05,6,1,1,0,0,0,0,0,77.71
+500148,Fri,9,India,Delhi,Male,30.0,Android,email,none,3,1,8.24,0,1,1,1,0,0,1,0,129.48
+500149,Mon,3,India,Hyderabad,Male,29.0,Android,google,lookalike,2,2,3.19,2,1,1,0,0,0,0,0,27.19
+500150,Wed,0,UAE,Delhi,Female,32.0,Android,affiliate,generic,9,2,4.4,3,0,0,0,0,0,0,0,60.35
+500151,Sun,21,United Kingdom,Dubai,Male,46.0,Android,organic,brand,1,1,3.67,3,0,1,1,0,0,0,0,7.63
+500152,Thu,4,India,London,Male,36.0,Android,email,lookalike,5,1,15.08,3,1,0,1,0,0,0,0,248.23
+500153,Mon,18,United Kingdom,Pune,Male,28.0,Android,email,lookalike,4,3,4.39,2,2,0,0,0,0,0,0,416.09
+500154,Sun,0,India,Chennai,Male,43.0,Android,affiliate,none,8,3,3.86,6,1,0,1,1,0,1,0,67.57
+500155,Mon,20,India,Mumbai,Female,25.0,Android,referral,generic,4,3,4.28,3,1,0,0,0,0,0,0,203.73
+500156,Wed,16,India,Pune,Female,36.0,Web,meta,lookalike,4,4,5.69,1,3,1,0,0,0,0,0,144.3
+500157,Mon,21,India,Hyderabad,Female,38.0,iOS,organic,brand,3,2,15.03,6,0,0,1,0,0,0,0,59.67
+500158,Wed,18,India,Chennai,Male,18.0,Android,meta,none,5,0,6.31,3,0,0,0,0,0,0,0,77.51
+500159,Fri,2,India,Delhi,Male,31.0,iOS,organic,remarketing,7,0,3.23,3,3,0,0,0,0,0,1,104.48
+500160,Sun,2,India,London,Male,28.0,Android,google,brand,6,2,6.54,2,1,0,0,0,0,1,0,32.22
+500161,Sun,11,India,Hyderabad,Male,36.0,Android,organic,none,5,1,2.08,2,1,0,1,0,0,0,0,29.64
+500162,Thu,18,United States,Dubai,Male,29.0,Android,affiliate,none,4,3,11.44,2,0,0,1,1,0,0,1,141.16
+500163,Mon,10,India,Delhi,Female,27.0,Android,google,lookalike,1,3,20.51,0,1,1,0,0,0,0,0,16.73
+500164,Tue,9,UAE,Delhi,Female,20.0,Android,organic,lookalike,8,4,3.06,2,1,1,0,0,0,0,0,21.57
+500165,Wed,9,India,Delhi,Female,38.0,Android,organic,generic,3,4,5.3,5,1,0,0,0,0,0,0,71.78
+500166,Fri,2,Australia,London,Male,26.0,iOS,google,crm_push,4,1,3.66,1,1,0,0,0,0,1,0,40.52
+500167,Sat,17,India,Mumbai,Female,22.0,Android,organic,crm_push,5,4,22.02,2,3,0,0,1,0,0,0,11.25
+500168,Tue,4,United States,Hyderabad,Female,27.0,Android,google,remarketing,6,3,11.78,1,1,0,0,0,0,0,0,330.31
+500169,Thu,5,UAE,Mumbai,Female,31.0,Web,organic,generic,8,4,1.27,4,0,0,0,1,0,0,0,51.29
+500170,Fri,21,United Kingdom,Delhi,Male,28.0,Android,referral,none,8,2,5.21,3,1,1,0,1,1,0,0,547.65
+500171,Wed,17,India,Chennai,Female,19.0,iOS,google,brand,6,1,1.75,7,0,0,0,0,0,0,0,48.02
+500172,Fri,12,India,London,Male,31.0,Android,email,generic,5,3,2.29,4,0,0,0,0,0,0,0,123.03
+500173,Sun,0,UAE,Mumbai,Male,20.0,Android,google,generic,3,2,3.49,3,0,0,0,0,0,0,0,97.36
+500174,Sat,3,United States,Mumbai,Female,24.0,Android,email,brand,4,1,4.07,5,1,1,0,0,0,1,0,31.59
+500175,Sun,9,United Kingdom,Bengaluru,Male,24.0,Android,google,generic,2,4,4.67,2,3,0,1,0,0,1,0,6.96
+500176,Fri,15,India,Mumbai,Male,42.0,Android,meta,lookalike,2,4,7.7,0,2,1,1,0,0,0,0,13.16
+500177,Fri,15,India,Hyderabad,Female,33.0,Android,email,remarketing,8,3,1.35,5,2,1,0,0,0,0,0,3.12
+500178,Thu,23,India,Pune,Female,31.0,Android,meta,crm_push,4,6,2.01,2,2,1,1,0,0,0,0,85.63
+500179,Tue,16,India,Hyderabad,Male,33.0,Android,organic,brand,6,3,9.13,3,0,0,1,0,0,0,0,5.42
+500180,Fri,10,India,London,Female,37.0,Android,google,crm_push,5,2,2.46,4,1,1,0,0,1,1,0,28.09
+500181,Sun,22,India,London,Male,18.0,Web,email,lookalike,8,2,4.36,2,2,0,0,0,0,0,0,9.74
+500182,Mon,20,India,London,Male,29.0,Android,affiliate,crm_push,3,3,3.41,1,1,0,0,0,0,0,0,70.08
+500183,Fri,7,UAE,Hyderabad,Female,27.0,iOS,meta,lookalike,6,0,11.39,2,1,1,0,0,0,1,0,96.73
+500184,Fri,13,India,Pune,Male,26.0,Android,affiliate,crm_push,6,0,5.67,2,1,1,0,0,0,0,0,47.18
+500185,Thu,17,United States,Mumbai,Female,24.0,Android,organic,remarketing,3,1,3.18,3,2,0,0,0,0,1,0,253.44
+500186,Thu,0,Australia,Pune,Male,18.0,iOS,organic,lookalike,6,3,12.07,3,0,1,0,1,0,0,0,25.07
+500187,Sun,8,United Kingdom,London,Female,27.0,iOS,google,brand,5,2,7.97,4,0,1,0,0,0,0,0,387.86
+500188,Thu,19,India,Dubai,Female,31.0,Android,meta,brand,3,1,16.45,4,1,0,0,0,0,0,0,70.38
+500189,Sun,10,India,Pune,Male,31.0,Android,google,generic,11,1,4.02,4,0,1,0,0,0,0,0,157.52
+500190,Sat,3,India,Hyderabad,Female,25.0,iOS,meta,generic,1,3,9.8,4,0,0,0,0,1,0,0,10.23
+500191,Sun,1,Australia,Dubai,Female,32.0,Android,email,remarketing,6,1,5.3,4,0,1,0,0,0,0,0,329.15
+500192,Thu,17,India,Chennai,Male,34.0,Android,meta,crm_push,5,4,0.54,3,0,0,0,0,0,0,0,112.54
+500193,Fri,4,India,Hyderabad,Female,27.0,iOS,email,none,2,2,7.28,3,2,0,0,0,0,0,0,72.24
+500194,Fri,1,India,Chennai,Male,31.0,Android,organic,crm_push,7,1,3.64,2,2,1,1,0,0,0,0,0.39
+500195,Wed,21,India,Dubai,Female,32.0,Android,organic,none,8,2,15.14,1,0,1,0,1,0,1,0,0.34
+500196,Thu,10,India,Bengaluru,Female,26.0,Android,organic,none,3,2,2.87,6,0,0,0,0,1,0,0,14.8
+500197,Wed,22,India,London,Female,34.0,Android,affiliate,lookalike,3,2,3.62,2,0,1,1,0,0,0,0,41.83
+500198,Tue,1,India,Delhi,Female,21.0,iOS,email,none,6,2,19.76,3,2,1,0,0,0,0,0,28.07
+500199,Sun,11,India,Mumbai,Male,20.0,Android,organic,remarketing,6,2,9.35,4,0,0,0,1,0,0,0,151.63
+500200,Thu,23,India,Pune,Male,29.0,Android,google,none,10,1,3.28,4,1,0,1,0,0,0,0,111.36
+500201,Sat,9,India,Hyderabad,Female,39.0,Android,organic,lookalike,2,1,2.7,1,3,0,0,0,0,0,0,178.0
+500202,Sat,18,India,Chennai,Male,30.0,iOS,meta,brand,3,6,3.71,5,2,1,1,0,1,0,0,37.46
+500203,Sun,3,India,Hyderabad,Female,29.0,Android,affiliate,brand,6,4,4.99,0,0,1,0,0,0,0,0,123.62
+500204,Tue,6,India,Mumbai,Male,19.0,iOS,email,crm_push,2,0,6.91,6,0,1,1,0,0,0,0,147.98
+500205,Sat,13,India,Bengaluru,Female,38.0,Web,meta,generic,2,3,8.62,6,1,0,1,0,0,0,0,467.18
+500206,Mon,12,India,Hyderabad,Female,37.0,iOS,affiliate,generic,7,2,1.29,0,1,0,0,0,0,0,0,120.04
+500207,Fri,0,India,Pune,Male,19.0,iOS,meta,brand,1,0,3.59,4,1,0,0,0,0,0,0,156.52
+500208,Fri,19,India,Mumbai,Male,39.0,iOS,email,lookalike,2,2,6.0,1,0,1,0,0,0,0,0,28.98
+500209,Wed,0,India,Pune,Female,25.0,Android,affiliate,crm_push,6,2,10.18,1,4,0,1,0,0,1,1,88.65
+500210,Fri,1,India,Delhi,Male,31.0,iOS,meta,lookalike,6,2,3.58,0,0,0,0,0,0,0,0,86.68
+500211,Tue,15,UAE,Hyderabad,Female,44.0,Android,meta,generic,8,1,10.36,5,0,0,0,0,0,1,0,70.05
+500212,Fri,1,UAE,Chennai,Female,20.0,Web,meta,remarketing,3,2,5.33,3,0,0,0,0,0,0,0,264.61
+500213,Thu,11,Canada,Mumbai,Male,31.0,iOS,email,generic,5,2,10.08,2,1,1,0,0,0,0,1,43.22
+500214,Mon,18,India,Hyderabad,Male,24.0,Android,organic,lookalike,6,4,4.6,2,0,0,1,0,0,1,0,161.97
+500215,Wed,14,United States,Delhi,Male,18.0,Android,google,generic,9,2,7.12,3,1,0,0,0,0,0,0,4.61
+500216,Sun,15,India,Mumbai,Male,26.0,Android,organic,generic,2,4,5.4,2,2,0,1,0,0,0,0,42.16
+500217,Wed,15,Australia,London,Male,20.0,Android,email,generic,3,1,9.24,3,0,0,1,1,0,1,0,6.06
+500218,Wed,10,India,Pune,Male,31.0,Android,referral,generic,3,3,1.78,2,1,0,0,0,0,1,0,72.13
+500219,Thu,5,India,Pune,Female,41.0,iOS,google,crm_push,4,3,7.2,7,3,1,0,0,0,0,0,71.79
+500220,Fri,16,India,Delhi,Female,30.0,iOS,organic,brand,8,2,2.06,4,0,1,0,1,0,0,0,34.06
+500221,Thu,6,India,Hyderabad,Female,21.0,Android,organic,generic,5,2,6.37,5,2,1,0,0,0,0,0,189.25
+500222,Tue,10,India,Mumbai,Female,21.0,iOS,organic,none,3,0,3.13,2,1,0,1,1,0,1,1,14.18
+500223,Sat,12,United States,Pune,Female,35.0,Android,meta,generic,6,0,3.46,2,2,1,0,0,0,1,0,49.93
+500224,Fri,15,United Kingdom,Pune,Female,40.0,Android,google,crm_push,7,2,4.82,4,1,1,1,0,0,1,0,71.34
+500225,Thu,12,India,Hyderabad,Male,35.0,Android,affiliate,crm_push,3,1,3.84,7,2,1,0,0,0,0,0,17.68
+500226,Tue,7,India,London,Female,18.0,Web,email,remarketing,3,3,1.86,1,1,1,0,0,0,0,0,136.88
+500227,Tue,8,India,Delhi,Female,22.0,Android,google,crm_push,11,2,7.71,4,2,0,0,0,0,1,0,48.64
+500228,Thu,4,Australia,Delhi,Female,34.0,Android,organic,remarketing,3,1,9.46,2,2,0,0,0,0,0,0,59.25
+500229,Thu,13,United Kingdom,Delhi,Male,50.0,iOS,google,remarketing,3,1,8.2,3,0,1,1,0,1,0,0,41.73
+500230,Mon,20,India,Pune,Female,18.0,Android,organic,generic,6,5,7.15,4,2,1,1,0,0,0,0,74.52
+500231,Thu,10,India,London,Male,38.0,Android,meta,none,7,2,2.82,2,2,1,1,0,0,0,0,134.56
+500232,Wed,11,Australia,London,Female,25.0,Android,referral,lookalike,6,1,2.15,7,1,0,0,0,0,0,0,32.66
+500233,Fri,19,Australia,Pune,Male,27.0,Android,google,none,3,3,16.18,6,0,0,1,0,0,1,0,29.03
+500234,Sun,19,India,London,Female,30.0,Web,google,generic,4,1,3.91,4,0,0,0,0,1,1,0,194.34
+500235,Tue,9,India,Pune,Female,38.0,Android,affiliate,brand,4,3,2.14,5,1,1,1,0,0,1,0,577.59
+500236,Sun,0,India,Chennai,Male,33.0,Android,google,none,5,1,3.33,3,1,0,1,0,0,0,0,20.68
+500237,Wed,15,India,Chennai,Male,27.0,Android,organic,remarketing,5,2,2.1,2,3,1,0,0,1,1,0,19.57
+500238,Sat,6,India,Dubai,Female,27.0,Android,organic,lookalike,8,1,10.54,3,1,0,1,1,0,0,0,12.81
+500239,Wed,23,India,Pune,Female,31.0,Android,email,crm_push,6,5,2.43,1,1,0,0,0,0,0,0,27.71
+500240,Tue,15,India,Pune,Male,31.0,Android,organic,crm_push,6,1,3.58,5,2,1,0,0,0,1,0,54.87
+500241,Sat,13,India,Dubai,Male,23.0,Android,affiliate,crm_push,3,2,0.14,4,2,1,0,0,0,0,0,0.39
+500242,Fri,3,India,Pune,Female,38.0,Android,affiliate,lookalike,6,1,1.32,1,1,0,0,0,0,0,0,22.06
+500243,Mon,2,India,Dubai,Unknown,45.0,Android,referral,crm_push,3,0,8.09,2,0,0,0,0,0,1,0,156.46
+500244,Mon,18,India,Bengaluru,Female,35.0,iOS,meta,crm_push,4,2,9.56,2,0,0,1,0,0,0,0,10.58
+500245,Sat,22,India,Chennai,Female,33.0,Android,meta,remarketing,10,2,16.12,0,2,1,0,0,0,0,0,145.59
+500246,Wed,21,India,Mumbai,Female,41.0,Android,affiliate,crm_push,4,1,7.02,3,1,1,1,0,1,0,0,65.68
+500247,Wed,16,India,Delhi,Male,33.0,Android,google,lookalike,4,1,12.23,4,1,1,0,0,1,0,1,24.66
+500248,Thu,11,India,Mumbai,Female,26.0,Android,google,crm_push,3,0,19.94,0,3,0,1,0,0,0,0,48.71
+500249,Mon,16,United Kingdom,Chennai,Male,47.0,Android,google,generic,5,0,8.3,3,0,1,0,0,0,0,0,14.99
+500250,Mon,0,India,Hyderabad,Female,31.0,Android,google,remarketing,5,2,9.28,2,0,0,0,0,0,0,0,72.51
+500251,Fri,20,India,Delhi,Female,32.0,Android,referral,brand,6,0,5.56,1,3,0,0,0,0,0,0,6.82
+500252,Thu,0,India,Dubai,Female,38.0,Web,email,generic,4,2,5.96,2,1,1,0,0,0,0,0,75.54
+500253,Tue,22,United States,Dubai,Male,35.0,iOS,affiliate,brand,4,1,2.44,2,2,1,1,1,0,0,0,51.55
+500254,Tue,10,India,Chennai,Male,24.0,Android,organic,lookalike,5,4,11.25,3,2,1,0,1,0,1,0,0.09
+500255,Fri,2,India,Delhi,Male,35.0,Android,referral,brand,4,1,5.24,2,1,1,1,1,0,0,0,211.64
+500256,Tue,3,India,Pune,Female,33.0,iOS,google,none,5,2,10.18,5,1,0,0,0,0,0,0,2.41
+500257,Mon,6,UAE,London,Unknown,36.0,Web,meta,none,5,1,3.64,2,0,0,0,0,0,0,0,152.75
+500258,Wed,17,India,Pune,Female,35.0,Android,email,brand,7,1,3.15,5,0,0,0,0,0,0,0,23.56
+500259,Thu,19,Australia,Dubai,Female,27.0,Android,organic,none,4,2,4.49,5,1,1,1,0,0,1,0,321.7
+500260,Tue,6,India,Hyderabad,Male,38.0,Android,email,crm_push,13,1,8.57,3,1,0,0,1,0,1,0,653.26
+500261,Tue,10,Australia,Mumbai,Female,27.0,iOS,google,remarketing,3,0,2.61,3,1,0,0,0,0,0,0,21.26
+500262,Tue,13,India,Mumbai,Female,31.0,Android,organic,brand,2,3,7.49,1,1,0,0,0,0,0,0,23.24
+500263,Tue,7,India,London,Male,32.0,Android,google,none,3,1,2.6,1,2,0,1,0,0,0,0,150.74
+500264,Wed,19,India,Mumbai,Unknown,26.0,Android,email,lookalike,7,1,13.29,3,3,0,0,0,0,1,1,12.12
+500265,Wed,15,United Kingdom,Hyderabad,Male,47.0,Android,google,lookalike,9,4,6.05,5,2,1,0,0,0,1,0,0.27
+500266,Sat,17,UAE,Bengaluru,Male,25.0,Android,meta,lookalike,4,1,5.86,4,1,1,0,0,0,1,0,79.52
+500267,Sun,11,Canada,Mumbai,Male,18.0,Android,organic,none,6,1,3.16,1,1,1,0,1,0,0,0,25.39
+500268,Fri,8,Canada,Delhi,Unknown,38.0,Android,google,crm_push,2,2,4.86,4,1,0,1,1,0,0,0,36.81
+500269,Sun,19,India,Delhi,Female,28.0,Android,affiliate,generic,2,1,1.76,4,2,0,1,1,0,1,0,47.47
+500270,Mon,8,India,Pune,Male,42.0,Android,referral,crm_push,4,2,9.72,5,0,1,1,0,0,0,0,24.72
+500271,Tue,20,United Kingdom,Chennai,Unknown,29.0,Android,referral,crm_push,6,0,4.69,3,0,1,0,0,0,0,0,10.11
+500272,Fri,12,India,Pune,Male,31.0,Android,google,brand,9,3,2.17,1,0,1,0,0,0,0,0,98.43
+500273,Mon,5,India,Mumbai,Male,52.0,Android,organic,remarketing,6,3,4.96,3,2,0,1,0,0,1,0,54.33
+500274,Wed,21,India,Mumbai,Male,30.0,Android,referral,lookalike,3,2,9.24,3,1,0,0,1,1,1,0,117.12
+500275,Tue,4,United States,Pune,Male,32.0,Android,google,remarketing,5,2,6.3,4,1,1,0,0,0,1,0,189.84
+500276,Sun,9,India,Dubai,Unknown,39.0,iOS,email,generic,3,6,4.12,2,2,1,0,0,0,1,0,20.51
+500277,Wed,22,Canada,Dubai,Female,32.0,Android,meta,remarketing,6,4,6.63,3,0,0,0,0,0,0,0,180.23
+500278,Sat,10,India,Chennai,Male,29.0,iOS,referral,remarketing,3,2,5.69,5,2,0,0,0,0,0,0,250.95
+500279,Tue,13,UAE,Delhi,Male,28.0,Web,organic,generic,4,3,6.34,1,0,1,1,0,1,0,0,28.27
+500280,Wed,22,India,Chennai,Male,24.0,iOS,referral,generic,4,2,11.76,4,1,0,0,0,0,0,0,154.11
+500281,Sun,15,India,Dubai,Female,27.0,iOS,referral,lookalike,9,3,6.5,4,3,1,0,0,0,0,0,25.47
+500282,Fri,6,United States,Hyderabad,Male,37.0,iOS,google,lookalike,4,2,21.2,1,0,0,0,0,0,0,0,145.15
+500283,Fri,21,India,Hyderabad,Male,39.0,Android,meta,generic,3,2,4.47,4,3,1,0,1,0,0,0,190.18
+500284,Sun,17,India,Hyderabad,Female,26.0,Android,organic,generic,3,1,14.38,2,2,0,1,0,0,0,0,275.0
+500285,Wed,7,India,Dubai,Male,40.0,Android,google,none,5,3,19.97,4,1,1,0,0,0,0,0,68.19
+500286,Wed,13,India,Mumbai,Female,37.0,iOS,google,crm_push,7,0,6.92,1,0,0,0,0,0,0,0,63.36
+500287,Sun,9,India,Hyderabad,Female,28.0,iOS,organic,lookalike,4,6,6.01,2,0,0,0,0,0,0,0,8.55
+500288,Thu,13,India,Bengaluru,Male,36.0,Android,google,none,7,5,5.82,5,1,0,0,1,0,0,0,62.03
+500289,Sun,19,India,Chennai,Male,41.0,Android,meta,none,3,2,4.71,3,1,1,0,1,0,0,1,146.22
+500290,Tue,21,United States,London,Male,33.0,Android,meta,lookalike,5,3,5.82,2,1,0,0,0,0,0,0,0.73
+500291,Thu,12,India,Mumbai,Male,31.0,Android,google,crm_push,4,1,5.33,5,0,0,0,0,0,0,0,191.52
+500292,Sun,22,India,Chennai,Male,24.0,Android,organic,crm_push,4,1,3.02,4,0,1,0,1,0,0,0,68.68
+500293,Wed,16,India,Bengaluru,Male,28.0,iOS,organic,none,10,2,3.18,1,2,0,0,0,0,0,1,82.27
+500294,Fri,5,India,Mumbai,Female,30.0,Android,referral,lookalike,2,2,1.25,3,0,0,1,0,0,0,0,104.72
+500295,Tue,14,India,Dubai,Female,20.0,iOS,meta,crm_push,4,3,7.57,3,1,0,0,0,0,0,0,210.99
+500296,Fri,7,India,Mumbai,Male,23.0,Android,email,lookalike,5,3,7.75,4,1,1,1,0,0,1,0,94.82
+500297,Wed,4,India,Hyderabad,Male,37.0,Android,organic,none,8,1,9.26,5,1,0,1,0,0,0,0,46.37
+500298,Sun,7,India,Dubai,Female,27.0,Android,google,brand,4,2,4.13,4,2,0,1,0,0,0,0,156.57
+500299,Sun,21,India,Mumbai,Female,18.0,Android,referral,none,5,1,12.32,2,0,0,0,0,0,0,0,241.06
+500300,Thu,22,India,Bengaluru,Female,27.0,Android,email,none,2,2,7.23,3,0,0,0,0,0,0,0,77.66
+500301,Sun,8,India,London,Male,27.0,Android,email,lookalike,7,1,16.04,1,0,1,0,1,0,0,0,115.86
+500302,Sun,6,India,Chennai,Male,32.0,iOS,google,none,8,3,3.83,4,3,1,0,0,0,1,0,64.31
+500303,Tue,17,India,Delhi,Male,34.0,Android,email,crm_push,13,3,3.67,2,0,0,0,0,0,1,0,9.42
+500304,Sat,13,India,Bengaluru,Male,36.0,Android,meta,generic,3,2,4.84,3,1,1,0,1,0,1,0,75.52
+500305,Thu,7,India,Pune,Female,29.0,Android,organic,remarketing,8,5,10.49,3,1,0,0,0,1,0,0,67.48
+500306,Tue,0,India,Dubai,Female,29.0,Android,organic,none,2,1,3.63,4,0,0,0,0,0,0,0,55.5
+500307,Sat,16,India,Chennai,Male,21.0,iOS,organic,remarketing,0,4,2.64,1,1,0,0,0,0,0,0,66.49
+500308,Sat,5,India,Mumbai,Unknown,27.0,iOS,organic,remarketing,3,1,5.07,4,1,0,1,0,0,0,0,33.13
+500309,Fri,13,UAE,Bengaluru,Male,24.0,Android,meta,remarketing,6,3,2.42,1,2,1,1,0,0,1,0,129.33
+500310,Mon,23,India,Hyderabad,Female,35.0,iOS,affiliate,generic,5,1,5.84,1,0,0,0,0,0,0,0,22.28
+500311,Tue,16,India,Pune,Female,49.0,iOS,email,none,5,2,5.21,3,0,0,1,0,0,0,0,45.26
+500312,Sun,16,India,Delhi,Female,34.0,Android,email,remarketing,3,0,19.39,5,1,1,0,0,0,0,0,100.01
+500313,Wed,11,India,Bengaluru,Female,40.0,iOS,referral,none,7,3,22.36,1,0,0,1,0,0,0,0,66.1
+500314,Sun,20,Australia,London,Female,37.0,Android,referral,brand,5,4,4.23,4,3,1,0,0,0,1,0,11.19
+500315,Tue,15,India,Bengaluru,Male,19.0,iOS,google,crm_push,1,1,22.19,3,0,0,1,0,0,0,1,54.72
+500316,Sat,2,India,Bengaluru,Female,31.0,Android,organic,lookalike,5,1,4.48,2,0,0,0,0,0,1,0,109.92
+500317,Wed,16,India,Pune,Male,22.0,Android,email,generic,5,2,2.02,1,1,1,1,1,0,0,0,5.84
+500318,Mon,1,India,Hyderabad,Male,19.0,Android,google,remarketing,5,2,1.83,2,2,1,1,0,0,0,0,152.66
+500319,Mon,12,United States,London,Male,39.0,Android,affiliate,remarketing,6,1,8.24,3,1,1,1,0,0,0,0,57.27
+500320,Fri,13,India,Pune,Male,43.0,Android,affiliate,remarketing,5,2,14.65,3,1,0,0,0,0,0,0,60.11
+500321,Fri,3,India,Hyderabad,Male,18.0,Android,affiliate,none,4,1,5.42,3,1,0,1,0,0,1,0,66.41
+500322,Sun,23,United States,Hyderabad,Female,26.0,Web,email,crm_push,4,5,5.77,4,2,0,0,0,0,0,0,22.33
+500323,Mon,5,India,Delhi,Male,32.0,Android,meta,generic,7,1,3.94,2,3,0,1,0,0,1,0,38.34
+500324,Tue,19,India,Dubai,Female,28.0,Android,email,brand,5,4,6.2,1,1,1,0,0,0,0,0,88.43
+500325,Sat,22,India,Mumbai,Female,32.0,Android,organic,lookalike,6,2,5.48,2,0,0,0,1,0,0,0,40.2
+500326,Tue,8,India,Chennai,Female,32.0,iOS,organic,brand,2,0,9.73,3,0,1,0,0,0,0,0,222.28
+500327,Fri,13,India,Mumbai,Male,34.0,Android,google,brand,4,1,2.73,5,1,1,0,0,0,1,0,189.45
+500328,Tue,21,India,Bengaluru,Female,38.0,iOS,meta,none,5,3,1.94,2,1,0,0,1,0,0,0,15.49
+500329,Tue,16,India,Mumbai,Male,35.0,Android,referral,remarketing,9,1,6.72,4,1,0,1,0,0,0,0,17.71
+500330,Tue,7,India,Chennai,Female,28.0,Android,organic,generic,7,1,5.23,4,4,0,0,0,1,0,0,42.35
+500331,Tue,18,India,Dubai,Female,39.0,Android,organic,remarketing,5,2,7.3,6,1,0,0,0,0,0,0,70.0
+500332,Wed,20,India,Bengaluru,Male,18.0,Android,affiliate,lookalike,3,2,13.55,4,2,1,0,0,0,0,0,171.24
+500333,Fri,1,India,Pune,Female,39.0,Android,organic,none,5,3,2.97,5,3,1,0,1,0,0,0,10.74
+500334,Mon,16,India,Dubai,Female,30.0,iOS,email,generic,7,1,2.7,0,0,1,0,0,0,0,0,126.93
+500335,Mon,6,India,Mumbai,Male,24.0,Android,organic,brand,1,2,4.18,3,0,1,1,0,0,0,0,10.36
+500336,Wed,2,India,Delhi,Female,21.0,Android,referral,remarketing,7,5,9.65,1,1,1,0,0,0,0,0,64.84
+500337,Fri,3,India,Delhi,Female,40.0,Android,email,brand,5,1,17.52,2,1,0,0,0,0,0,0,69.32
+500338,Sun,17,India,London,Male,29.0,Android,organic,none,7,4,7.56,3,1,0,0,0,0,0,0,265.97
+500339,Sat,13,India,Dubai,Female,22.0,Android,organic,lookalike,4,1,3.19,5,2,1,0,0,0,0,0,111.49
+500340,Wed,19,India,London,Male,23.0,Android,affiliate,none,5,4,4.28,5,3,1,0,0,0,0,0,102.8
+500341,Fri,12,India,Delhi,Female,27.0,iOS,referral,crm_push,8,3,6.36,3,1,0,0,0,0,1,0,2.03
+500342,Wed,16,India,Dubai,Male,41.0,Android,organic,lookalike,9,0,5.48,3,0,0,0,0,0,0,0,112.92
+500343,Sun,11,India,Pune,Female,38.0,Android,google,none,5,1,1.56,1,0,0,1,0,1,1,0,90.68
+500344,Tue,6,India,Bengaluru,Male,34.0,iOS,google,generic,3,3,3.65,3,1,1,0,0,0,0,0,90.95
+500345,Wed,2,India,Pune,Male,29.0,iOS,google,crm_push,3,1,3.46,5,1,1,0,0,0,0,0,4.16
+500346,Wed,4,India,Pune,Male,19.0,Android,organic,none,10,1,6.5,4,0,0,0,1,0,0,0,39.79
+500347,Thu,20,India,London,Male,53.0,iOS,referral,brand,3,3,4.6,4,0,0,1,0,0,0,0,9.76
+500348,Sun,19,United Kingdom,London,Unknown,27.0,Android,google,crm_push,3,2,4.37,4,0,1,0,0,1,0,0,194.46
+500349,Sun,0,India,Pune,Female,26.0,iOS,organic,none,8,4,4.37,2,2,0,1,0,0,0,0,36.57
+500350,Fri,13,India,Dubai,Male,31.0,Android,google,remarketing,5,4,12.13,1,1,1,0,1,0,0,0,167.14
+500351,Tue,8,UAE,London,Unknown,44.0,iOS,meta,brand,6,2,7.18,2,1,1,0,0,0,1,0,30.59
+500352,Wed,20,India,Hyderabad,Female,32.0,iOS,meta,none,7,1,5.85,5,2,0,0,1,0,0,0,88.98
+500353,Tue,14,India,Pune,Female,29.0,Android,organic,none,3,1,2.79,6,3,0,1,0,0,1,0,0.76
+500354,Sat,1,India,London,Male,18.0,Android,google,crm_push,6,1,5.17,4,0,0,0,0,0,1,0,95.69
+500355,Fri,17,India,Mumbai,Male,29.0,Android,google,lookalike,4,1,11.48,6,2,0,0,1,0,0,1,95.6
+500356,Sun,3,India,London,Male,31.0,Android,organic,crm_push,5,3,9.4,3,1,0,0,0,0,0,0,11.86
+500357,Sun,1,India,Bengaluru,Female,25.0,Web,organic,generic,0,2,4.62,2,0,1,0,0,0,0,0,47.46
+500358,Mon,12,India,Delhi,Male,34.0,Web,affiliate,brand,5,4,11.64,4,1,1,0,0,0,0,0,91.96
+500359,Thu,20,India,Chennai,Male,25.0,iOS,google,crm_push,5,1,8.29,0,2,1,0,0,0,0,0,60.54
+500360,Thu,17,Australia,Dubai,Male,25.0,Android,meta,brand,1,3,4.32,2,1,0,0,0,0,0,0,207.63
+500361,Fri,19,India,London,Male,31.0,Android,organic,lookalike,3,0,3.37,1,2,0,1,1,0,0,0,18.94
+500362,Thu,3,India,London,Female,26.0,Web,affiliate,generic,4,1,3.89,3,1,0,0,0,0,0,0,268.37
+500363,Mon,2,India,Hyderabad,Male,29.0,Android,affiliate,brand,5,1,11.78,3,0,1,0,0,0,0,0,54.34
+500364,Tue,6,India,Bengaluru,Female,33.0,Android,email,generic,11,0,3.23,0,1,1,0,0,0,0,0,664.58
+500365,Sun,1,United Kingdom,Bengaluru,Female,26.0,Android,google,lookalike,3,1,6.95,8,3,0,0,0,1,0,0,44.46
+500366,Wed,13,United Kingdom,Pune,Male,35.0,Android,google,brand,5,0,11.55,4,2,0,0,0,0,0,0,162.43
+500367,Sun,4,India,London,Male,22.0,Android,referral,lookalike,4,2,0.96,2,0,1,0,0,0,0,0,144.7
+500368,Fri,1,United States,Delhi,Female,24.0,Android,referral,lookalike,0,1,18.24,1,1,0,0,0,0,0,0,61.93
+500369,Sat,8,India,Bengaluru,Male,26.0,Android,affiliate,none,5,3,4.14,1,0,0,0,1,0,0,1,115.07
+500370,Sat,15,India,Mumbai,Male,33.0,iOS,organic,generic,2,0,4.24,5,1,1,0,0,0,0,0,108.63
+500371,Fri,21,India,London,Female,29.0,Android,meta,lookalike,5,0,7.39,4,1,1,0,0,0,0,0,11.39
+500372,Thu,7,Canada,Delhi,Male,24.0,Android,meta,lookalike,4,3,10.49,3,1,1,0,0,0,1,0,106.07
+500373,Wed,5,India,Mumbai,Female,28.0,Android,google,crm_push,6,4,3.83,3,2,1,0,0,0,0,0,103.83
+500374,Sun,2,India,Hyderabad,Male,29.0,Android,organic,brand,2,4,7.41,1,1,1,0,0,0,0,0,45.03
+500375,Thu,6,India,London,Male,40.0,Android,organic,none,4,5,6.92,4,0,0,0,0,0,0,0,13.35
+500376,Thu,17,United States,Bengaluru,Female,36.0,Android,referral,none,3,1,2.15,4,0,1,0,1,1,0,0,48.0
+500377,Tue,15,India,Hyderabad,Female,21.0,Android,google,lookalike,3,2,1.61,2,0,0,0,1,0,0,0,109.92
+500378,Tue,3,India,Dubai,Female,39.0,iOS,referral,remarketing,4,5,6.61,1,1,1,1,0,1,0,0,169.37
+500379,Sun,20,India,London,Male,21.0,Android,google,remarketing,5,5,19.44,2,2,1,0,0,0,0,0,36.83
+500380,Thu,3,India,Mumbai,Female,38.0,Android,organic,crm_push,5,3,5.73,4,0,0,0,0,1,0,0,33.01
+500381,Mon,15,India,Hyderabad,Female,34.0,Android,google,lookalike,4,6,7.28,4,1,0,0,0,0,0,0,17.53
+500382,Fri,17,India,London,Female,26.0,iOS,email,crm_push,3,1,7.36,1,1,1,0,0,0,0,0,36.55
+500383,Sat,1,United States,Mumbai,Male,36.0,iOS,meta,remarketing,3,1,1.87,2,2,0,1,0,0,1,0,21.84
+500384,Mon,21,India,London,Female,31.0,Android,organic,brand,4,1,6.67,2,1,0,1,0,0,0,0,32.85
+500385,Fri,11,India,London,Unknown,31.0,Android,affiliate,lookalike,5,1,3.61,5,2,0,0,1,1,0,0,62.22
+500386,Wed,8,Canada,Pune,Female,25.0,iOS,affiliate,crm_push,8,1,9.65,4,1,1,0,0,0,0,0,67.13
+500387,Wed,6,India,Pune,Male,31.0,iOS,organic,brand,1,0,0.56,2,1,0,0,0,0,0,0,108.25
+500388,Mon,7,India,Hyderabad,Male,18.0,iOS,meta,crm_push,4,0,2.02,2,0,0,0,0,0,1,0,326.04
+500389,Thu,5,India,Chennai,Female,18.0,Android,organic,brand,5,1,9.36,4,3,0,0,0,0,0,0,7.51
+500390,Sat,11,India,Chennai,Female,35.0,Android,affiliate,brand,2,0,3.49,2,0,0,0,1,0,1,0,21.49
+500391,Thu,7,Australia,Mumbai,Male,32.0,Android,google,crm_push,4,2,1.63,4,2,0,0,0,0,0,0,42.19
+500392,Sun,9,United Kingdom,Bengaluru,Female,29.0,Android,referral,remarketing,5,0,3.81,5,1,0,1,1,0,0,0,274.4
+500393,Sun,3,India,London,Male,34.0,Android,google,crm_push,8,2,3.57,6,1,0,0,0,0,0,0,26.42
+500394,Wed,9,India,Delhi,Male,31.0,Android,email,none,4,2,10.47,2,1,1,0,0,0,0,0,167.8
+500395,Thu,6,India,Hyderabad,Male,35.0,Web,referral,none,7,2,10.42,0,0,0,0,0,0,0,0,41.67
+500396,Tue,18,India,Bengaluru,Male,37.0,Android,meta,generic,8,4,21.63,0,0,0,0,1,0,0,0,254.95
+500397,Wed,2,UAE,London,Female,18.0,Android,organic,lookalike,3,2,5.11,2,1,0,0,0,0,0,0,2.96
+500398,Sun,11,India,Mumbai,Male,18.0,iOS,email,remarketing,7,4,14.34,3,0,1,0,0,0,0,0,22.16
+500399,Fri,18,India,London,Male,32.0,Android,referral,remarketing,1,1,1.57,3,2,0,0,0,0,0,0,3.18
+500400,Sat,9,India,Mumbai,Male,32.0,Android,organic,crm_push,5,1,7.86,4,1,1,1,1,0,0,0,111.44
+500401,Fri,20,Canada,Hyderabad,Female,30.0,Android,google,lookalike,5,6,3.22,3,0,0,0,1,0,0,0,84.43
+500402,Thu,5,India,London,Male,24.0,iOS,affiliate,none,3,3,1.18,4,2,1,0,0,0,1,0,21.12
+500403,Fri,19,Canada,Bengaluru,Female,23.0,Android,meta,generic,2,2,1.56,2,1,0,0,0,0,0,0,4.53
+500404,Fri,14,Australia,Chennai,Male,29.0,iOS,organic,crm_push,3,2,9.74,3,0,0,0,0,0,0,0,125.71
+500405,Mon,20,India,Hyderabad,Male,27.0,Android,referral,lookalike,6,4,4.6,6,1,0,1,0,0,0,0,114.15
+500406,Mon,18,India,Pune,Female,37.0,Android,google,crm_push,6,5,11.3,2,1,0,0,0,0,0,0,201.41
+500407,Fri,10,India,London,Female,32.0,Android,referral,none,9,5,3.7,4,2,1,0,0,0,0,0,14.64
+500408,Wed,7,India,Mumbai,Male,31.0,iOS,email,lookalike,3,3,4.35,7,0,0,0,0,0,0,1,68.26
+500409,Sat,9,India,London,Male,39.0,iOS,email,remarketing,2,4,2.36,2,1,1,1,0,0,0,0,200.27
+500410,Fri,21,India,Pune,Male,36.0,Android,organic,crm_push,6,6,5.29,1,0,0,0,0,1,0,0,18.41
+500411,Sat,13,India,Dubai,Male,32.0,Android,meta,generic,5,0,7.61,2,0,0,1,0,0,0,0,74.78
+500412,Tue,19,India,Hyderabad,Male,23.0,iOS,referral,lookalike,4,1,20.85,2,3,0,1,0,0,0,0,74.74
+500413,Wed,13,India,Mumbai,Male,38.0,Android,referral,generic,8,3,13.02,2,0,0,0,0,0,0,0,3.42
+500414,Sat,14,India,Dubai,Female,36.0,Web,organic,generic,7,1,1.43,3,1,0,1,0,0,0,0,121.95
+500415,Tue,11,India,Chennai,Female,27.0,Android,google,crm_push,6,2,13.71,1,1,1,1,0,1,0,0,124.66
+500416,Sat,16,India,Chennai,Male,33.0,iOS,google,lookalike,8,1,12.45,6,1,1,0,0,0,0,0,17.03
+500417,Tue,9,India,Hyderabad,Male,21.0,Android,google,none,3,4,2.04,3,2,1,0,1,0,0,0,3.48
+500418,Sun,11,India,Dubai,Male,18.0,iOS,google,brand,5,5,5.56,2,1,1,0,1,0,0,0,101.84
+500419,Sun,18,India,Chennai,Male,37.0,iOS,organic,generic,5,3,3.57,3,1,1,1,0,0,0,0,11.58
+500420,Thu,7,India,Delhi,Female,28.0,Android,referral,lookalike,6,3,3.14,3,1,0,1,0,0,0,0,93.55
+500421,Mon,15,India,Bengaluru,Male,22.0,Android,email,remarketing,5,1,21.22,2,3,0,1,0,0,0,0,13.03
+500422,Thu,17,UAE,London,Male,33.0,Android,google,generic,8,2,2.97,5,1,0,0,0,0,0,0,157.48
+500423,Sat,19,United States,Dubai,Female,26.0,iOS,affiliate,generic,5,1,6.3,3,3,0,1,0,0,0,0,75.63
+500424,Tue,9,India,Mumbai,Female,29.0,iOS,meta,generic,3,3,3.12,5,0,0,0,1,0,0,0,68.79
+500425,Thu,20,UAE,London,Unknown,18.0,Android,organic,none,1,3,2.45,4,1,1,1,0,0,1,0,61.14
+500426,Thu,10,India,London,Female,30.0,Android,google,remarketing,4,4,11.79,1,1,1,0,0,0,1,0,3.37
+500427,Wed,5,India,London,Female,38.0,Web,organic,remarketing,8,3,8.23,1,2,0,0,0,0,0,0,146.0
+500428,Thu,17,India,Dubai,Unknown,27.0,Android,affiliate,crm_push,5,3,3.39,5,1,1,1,0,0,0,0,48.29
+500429,Wed,12,United States,Chennai,Female,35.0,iOS,organic,brand,6,6,8.38,1,1,0,1,0,0,0,0,36.97
+500430,Sun,10,India,Mumbai,Male,38.0,Android,google,crm_push,5,2,8.32,2,0,0,1,1,0,0,0,79.76
+500431,Thu,13,UAE,Pune,Male,33.0,iOS,meta,brand,6,2,4.28,3,0,0,0,0,1,0,1,55.41
+500432,Sat,13,India,Delhi,Male,36.0,Android,organic,generic,3,2,7.52,1,1,0,0,0,0,0,0,27.12
+500433,Sun,22,India,Dubai,Female,25.0,Android,organic,lookalike,3,2,3.07,6,0,0,0,0,0,0,0,12.83
+500434,Thu,3,India,Pune,Female,33.0,Android,google,generic,8,2,3.29,3,0,1,0,0,0,0,0,8.55
+500435,Tue,9,India,Bengaluru,Male,26.0,iOS,referral,remarketing,3,0,2.72,6,1,0,1,0,0,0,0,21.59
+500436,Sun,19,United States,Hyderabad,Female,27.0,Web,meta,brand,4,4,1.36,2,0,0,0,0,0,1,0,163.29
+500437,Tue,17,India,Delhi,Male,28.0,iOS,email,generic,10,2,9.18,6,0,1,0,0,0,0,0,9.31
+500438,Fri,8,India,Pune,Female,40.0,Android,google,brand,2,2,2.0,4,0,1,0,1,0,0,0,135.09
+500439,Sun,20,India,London,Female,37.0,Android,referral,crm_push,2,2,2.56,3,1,0,1,0,0,0,1,162.12
+500440,Fri,12,India,Dubai,Female,18.0,Android,meta,remarketing,3,1,4.91,5,1,0,0,0,0,0,1,139.47
+500441,Wed,22,India,Hyderabad,Male,40.0,Android,google,remarketing,3,3,7.73,8,2,0,1,0,0,0,0,159.36
+500442,Sun,18,India,Chennai,Female,42.0,Android,meta,none,5,1,10.86,3,0,1,0,0,0,1,0,19.37
+500443,Tue,7,Australia,London,Female,31.0,Android,google,none,4,3,1.48,4,1,1,0,0,0,0,0,430.95
+500444,Fri,10,United States,Bengaluru,Male,32.0,iOS,organic,none,1,0,4.35,3,2,1,1,0,0,1,0,62.61
+500445,Sat,22,India,Bengaluru,Male,36.0,Android,email,lookalike,4,2,11.48,3,1,0,0,0,0,1,0,133.12
+500446,Thu,7,India,Dubai,Male,44.0,Android,organic,generic,7,1,11.93,5,0,0,1,0,0,0,0,53.12
+500447,Tue,17,India,Chennai,Male,22.0,Android,meta,remarketing,4,2,7.87,2,1,1,0,0,0,0,1,16.95
+500448,Sat,23,India,Delhi,Male,32.0,Web,meta,none,5,2,1.31,2,1,1,0,1,0,0,0,149.75
+500449,Sat,16,India,Chennai,Male,26.0,Android,meta,lookalike,6,1,5.18,1,2,1,1,0,0,0,0,53.97
+500450,Sun,9,India,Delhi,Female,43.0,Android,google,remarketing,5,1,6.87,6,3,0,0,0,0,1,0,286.83
+500451,Thu,21,India,Chennai,Female,35.0,iOS,organic,crm_push,2,2,4.51,2,1,1,0,0,0,0,0,133.42
+500452,Thu,21,India,Mumbai,Male,24.0,iOS,email,generic,3,1,6.2,3,0,0,0,1,0,0,0,111.06
+500453,Sat,9,India,Bengaluru,Male,38.0,Web,email,generic,6,1,4.55,1,1,1,0,0,0,0,0,101.59
+500454,Wed,22,Canada,Chennai,Male,29.0,Android,google,none,10,3,11.65,4,0,0,0,0,0,0,0,75.15
+500455,Sun,3,India,Mumbai,Female,37.0,Android,organic,brand,7,3,1.34,4,0,0,0,0,0,0,0,182.03
+500456,Tue,7,United States,Hyderabad,Male,18.0,Android,organic,none,6,1,4.58,4,1,0,0,1,0,0,0,77.63
+500457,Thu,1,Canada,Delhi,Female,33.0,Android,meta,lookalike,5,2,1.97,1,0,0,1,0,0,0,0,441.38
+500458,Wed,13,India,Mumbai,Female,26.0,Web,organic,crm_push,8,2,9.73,2,1,0,0,0,0,1,0,59.12
+500459,Mon,7,Australia,Bengaluru,Male,50.0,iOS,google,brand,5,0,0.96,4,1,1,0,0,0,0,1,6.82
+500460,Mon,22,India,London,Male,18.0,Android,meta,crm_push,3,4,3.17,3,1,0,0,0,0,0,0,113.32
+500461,Thu,21,India,Hyderabad,Male,32.0,iOS,email,brand,7,3,8.03,1,3,0,0,0,0,1,0,3.6
+500462,Thu,13,India,Dubai,Female,30.0,iOS,google,brand,4,1,2.58,4,0,1,0,1,0,0,0,38.98
+500463,Mon,7,India,Delhi,Male,25.0,Android,email,generic,3,2,7.0,2,1,1,0,1,0,0,0,47.74
+500464,Fri,17,India,Bengaluru,Male,28.0,Web,referral,crm_push,4,1,1.27,3,2,0,0,0,0,1,0,175.07
+500465,Wed,7,India,Pune,Male,29.0,Android,organic,lookalike,6,4,4.33,1,0,0,1,0,0,0,0,65.88
+500466,Thu,9,India,Hyderabad,Male,18.0,Android,email,lookalike,5,1,3.55,4,3,0,0,0,0,0,0,230.75
+500467,Sun,3,United States,Hyderabad,Female,29.0,iOS,google,brand,6,4,3.82,3,0,0,0,0,0,0,0,21.97
+500468,Mon,10,India,Pune,Female,27.0,Android,organic,brand,7,2,21.78,2,1,0,0,0,0,0,0,26.34
+500469,Mon,13,India,Delhi,Male,33.0,Android,organic,crm_push,4,0,6.72,4,0,1,0,1,0,0,0,36.35
+500470,Mon,22,United States,London,Male,32.0,Web,email,generic,7,2,1.19,5,1,1,0,0,0,1,0,104.7
+500471,Mon,15,India,Dubai,Female,33.0,Android,organic,generic,8,1,11.38,0,0,1,0,0,0,0,0,91.2
+500472,Sun,9,India,Bengaluru,Female,19.0,Android,affiliate,crm_push,3,1,2.41,4,0,0,1,0,0,0,0,18.43
+500473,Mon,14,India,Chennai,Female,30.0,Android,meta,crm_push,2,2,6.82,3,1,0,0,0,0,1,0,41.36
+500474,Mon,7,United States,Hyderabad,Female,30.0,Android,google,generic,5,0,3.4,1,0,1,0,0,0,0,0,34.68
+500475,Thu,14,India,Mumbai,Male,31.0,Android,meta,brand,7,4,7.65,2,2,0,0,1,0,0,0,113.93
+500476,Sat,18,India,Chennai,Male,27.0,Android,organic,generic,5,1,11.19,3,0,0,0,0,0,0,0,36.71
+500477,Sat,7,India,Chennai,Female,18.0,Android,organic,remarketing,3,2,14.11,5,1,0,0,0,0,0,0,112.81
+500478,Wed,16,India,Delhi,Male,25.0,iOS,meta,remarketing,6,3,5.05,5,3,1,0,0,0,0,0,63.59
+500479,Mon,17,United Kingdom,Dubai,Male,34.0,Android,organic,crm_push,5,2,5.51,3,1,0,0,0,0,1,0,228.6
+500480,Mon,1,United States,London,Female,18.0,iOS,organic,remarketing,7,1,2.13,5,1,0,0,0,0,0,0,304.14
+500481,Sat,4,Canada,Delhi,Male,28.0,Web,meta,lookalike,6,1,10.62,1,1,1,0,0,0,0,0,79.44
+500482,Mon,15,India,Bengaluru,Male,41.0,Android,google,remarketing,7,1,4.19,4,2,1,0,1,0,1,0,201.71
+500483,Mon,23,Australia,Pune,Female,32.0,Android,google,none,4,1,2.87,6,2,0,1,0,0,0,0,102.31
+500484,Mon,16,United States,Hyderabad,Male,32.0,Web,email,generic,3,0,1.8,0,1,1,1,0,0,0,0,90.63
+500485,Tue,14,India,London,Female,28.0,iOS,email,remarketing,6,3,6.18,4,2,0,0,0,0,0,0,50.11
+500486,Tue,18,India,Chennai,Female,30.0,Android,email,brand,10,0,6.58,8,0,1,1,0,0,0,0,65.72
+500487,Mon,23,Australia,Hyderabad,Female,22.0,Android,organic,crm_push,7,0,2.98,2,1,1,0,0,0,0,0,39.47
+500488,Mon,22,India,London,Male,23.0,Android,organic,brand,6,3,7.35,4,1,0,1,0,0,1,0,15.39
+500489,Fri,21,UAE,Mumbai,Male,22.0,iOS,meta,remarketing,4,1,1.91,4,0,0,0,0,0,0,0,206.93
+500490,Fri,14,India,Dubai,Male,39.0,iOS,affiliate,brand,3,0,8.42,0,0,0,0,0,0,0,0,19.05
+500491,Wed,12,India,Mumbai,Male,19.0,Android,email,lookalike,5,5,2.44,7,1,1,0,0,0,0,0,62.46
+500492,Tue,16,India,Mumbai,Male,31.0,iOS,email,brand,3,4,2.55,4,0,0,0,1,0,0,0,106.88
+500493,Thu,19,India,Mumbai,Female,33.0,Android,google,lookalike,2,3,5.88,2,2,0,0,0,0,1,0,138.77
+500494,Wed,11,United Kingdom,Bengaluru,Male,21.0,Android,meta,generic,3,2,8.65,4,1,1,1,0,0,0,0,35.16
+500495,Sun,2,India,Bengaluru,Male,32.0,iOS,email,none,2,3,3.59,4,2,1,0,0,0,0,0,85.81
+500496,Sun,9,India,Dubai,Female,22.0,Android,meta,brand,7,1,5.56,3,0,0,0,0,0,0,0,46.84
+500497,Wed,9,India,Chennai,Female,31.0,Android,organic,remarketing,7,2,2.43,7,2,0,1,1,0,0,0,137.96
+500498,Mon,22,India,Mumbai,Female,36.0,Android,meta,generic,5,2,4.2,2,0,1,0,0,0,0,0,85.64
+500499,Mon,12,United Kingdom,Mumbai,Male,20.0,Android,meta,crm_push,5,0,5.46,6,2,0,0,0,1,0,0,3.83
+500500,Thu,23,India,Mumbai,Female,38.0,Android,organic,crm_push,4,0,5.64,3,0,0,1,0,0,0,0,75.32
+500501,Fri,6,India,Chennai,Female,31.0,Android,meta,remarketing,4,4,7.25,3,1,1,1,0,0,0,0,96.97
+500502,Mon,4,India,Hyderabad,Female,32.0,iOS,google,none,5,2,4.11,3,1,1,0,0,0,1,1,191.43
+500503,Tue,8,India,Dubai,Male,33.0,Android,organic,lookalike,6,2,4.06,3,1,0,1,0,0,0,0,4.16
+500504,Thu,3,India,London,Male,21.0,Android,google,brand,5,0,3.44,6,0,1,0,1,0,0,0,72.71
+500505,Sat,2,India,Bengaluru,Female,28.0,Android,affiliate,crm_push,7,2,2.29,1,0,0,1,0,1,1,0,55.57
+500506,Thu,10,United Kingdom,Delhi,Male,18.0,Android,organic,brand,3,0,3.77,3,1,1,1,0,0,0,0,81.98
+500507,Mon,23,India,Bengaluru,Female,27.0,Android,google,none,2,1,8.47,2,1,1,0,0,0,0,0,115.96
+500508,Thu,16,India,Chennai,Female,21.0,Web,referral,none,5,2,5.56,3,1,0,1,0,0,0,0,11.54
+500509,Fri,1,India,Bengaluru,Female,29.0,iOS,affiliate,generic,3,1,10.76,6,0,0,0,0,0,0,0,62.46
+500510,Mon,20,India,Chennai,Male,27.0,Android,organic,brand,5,2,2.86,1,0,1,0,0,0,1,0,58.82
+500511,Fri,8,India,Dubai,Female,28.0,Android,email,crm_push,2,2,3.06,3,0,1,0,0,0,0,1,57.91
+500512,Fri,5,India,London,Male,32.0,Android,google,lookalike,6,5,4.17,4,2,0,0,0,0,0,0,42.67
+500513,Sat,22,India,Hyderabad,Male,33.0,Android,organic,none,3,1,6.79,3,0,0,0,0,0,1,0,151.54
+500514,Tue,11,India,London,Male,36.0,iOS,email,crm_push,4,3,10.62,6,1,0,1,0,0,0,0,5.23
+500515,Mon,18,India,Chennai,Male,22.0,Android,google,remarketing,3,0,2.18,4,1,0,0,0,0,1,0,38.87
+500516,Tue,20,India,Hyderabad,Male,19.0,Android,organic,crm_push,7,2,2.28,1,2,0,0,0,0,0,1,71.67
+500517,Tue,3,United States,Mumbai,Female,27.0,Web,email,brand,3,4,4.58,2,1,0,0,0,0,1,0,191.68
+500518,Thu,10,India,Pune,Male,46.0,Android,organic,brand,3,3,4.44,3,1,0,0,0,0,1,0,79.57
+500519,Wed,4,India,Bengaluru,Male,35.0,iOS,meta,lookalike,4,0,3.89,2,1,1,0,0,0,0,0,11.25
+500520,Mon,19,India,Pune,Male,41.0,iOS,google,crm_push,6,1,5.43,2,2,0,0,0,0,1,0,91.4
+500521,Fri,5,United Kingdom,Dubai,Female,19.0,Android,organic,generic,10,0,4.57,5,2,0,0,0,0,1,0,33.18
+500522,Sat,19,India,Delhi,Female,18.0,Android,organic,none,4,0,8.68,3,2,1,1,0,0,1,0,70.76
+500523,Thu,21,India,Mumbai,Female,41.0,iOS,organic,generic,5,2,11.29,3,1,0,0,0,0,0,0,67.72
+500524,Tue,15,United Kingdom,Bengaluru,Unknown,41.0,Android,affiliate,none,11,3,5.74,1,2,1,1,0,0,0,0,15.13
+500525,Sat,10,United Kingdom,Hyderabad,Male,39.0,iOS,google,none,8,0,3.69,2,2,0,1,0,0,1,0,136.68
+500526,Tue,23,India,London,Male,32.0,iOS,referral,generic,4,3,5.25,1,2,1,1,1,0,1,0,62.14
+500527,Mon,8,India,Dubai,Male,28.0,Android,email,remarketing,6,2,2.23,4,1,1,0,0,0,1,0,39.07
+500528,Thu,21,India,Hyderabad,Male,33.0,Android,email,none,2,2,5.46,4,2,1,0,0,0,1,0,18.44
+500529,Sat,22,Canada,Dubai,Male,29.0,Android,email,generic,3,2,2.97,2,0,1,0,0,0,0,0,198.19
+500530,Sat,1,India,London,Female,34.0,Web,organic,none,4,5,5.71,5,0,0,1,0,0,0,0,22.17
+500531,Fri,3,India,Dubai,Female,33.0,Android,organic,remarketing,6,4,1.64,2,2,0,1,0,0,1,0,218.53
+500532,Tue,15,India,Pune,Female,36.0,Android,email,generic,2,2,8.36,5,1,1,0,0,0,0,0,62.37
+500533,Thu,3,India,Hyderabad,Male,21.0,Android,meta,none,6,3,7.6,6,2,1,1,0,0,1,0,55.9
+500534,Sun,8,India,Dubai,Female,37.0,Web,email,lookalike,3,2,3.91,4,1,0,0,0,0,0,0,51.06
+500535,Fri,21,India,Pune,Male,22.0,iOS,email,crm_push,6,2,4.88,5,0,1,1,0,0,0,0,170.73
+500536,Thu,7,United States,Mumbai,Male,46.0,Android,email,remarketing,3,2,2.42,0,0,0,0,1,0,0,0,134.55
+500537,Tue,6,India,London,Male,28.0,Android,meta,brand,4,2,2.4,2,1,0,1,0,1,0,0,90.23
+500538,Tue,17,India,London,Female,23.0,Android,email,remarketing,3,0,10.02,4,0,0,1,0,1,0,0,59.36
+500539,Fri,20,Australia,Pune,Male,38.0,Web,google,crm_push,4,3,4.52,3,1,0,1,0,0,0,0,85.54
+500540,Thu,8,India,Bengaluru,Female,34.0,Web,organic,remarketing,4,1,6.63,2,1,1,0,0,0,0,0,22.29
+500541,Tue,9,Australia,Hyderabad,Female,18.0,Android,organic,none,9,5,8.21,2,1,1,0,0,0,0,0,54.95
+500542,Sun,21,UAE,Hyderabad,Male,27.0,Android,organic,none,3,0,5.18,1,1,0,0,0,0,0,0,12.14
+500543,Thu,10,India,Bengaluru,Male,28.0,Android,google,remarketing,5,0,2.85,1,1,1,0,0,0,1,0,10.98
+500544,Sun,1,India,Delhi,Female,22.0,Android,referral,crm_push,6,1,34.36,5,1,0,1,0,0,0,0,98.66
+500545,Mon,18,India,Mumbai,Female,28.0,iOS,google,generic,2,0,6.36,5,1,0,0,1,0,1,0,229.12
+500546,Sun,9,India,Pune,Male,18.0,iOS,meta,none,3,3,8.73,1,1,0,0,0,0,0,0,129.77
+500547,Fri,14,United States,London,Female,33.0,Android,email,none,6,5,2.86,2,0,0,0,0,0,0,0,223.71
+500548,Wed,17,India,Mumbai,Male,27.0,Android,referral,crm_push,5,1,7.47,1,1,1,0,0,0,0,0,20.07
+500549,Fri,4,India,London,Male,23.0,iOS,organic,lookalike,5,1,8.73,3,0,0,0,0,0,0,0,24.27
+500550,Tue,11,India,London,Female,20.0,Android,meta,generic,6,1,13.2,2,1,0,0,0,0,0,0,44.12
+500551,Thu,7,Canada,Bengaluru,Female,30.0,Android,organic,none,3,1,8.17,1,2,1,0,0,0,0,0,38.65
+500552,Sat,5,India,Mumbai,Male,30.0,Android,google,remarketing,6,1,3.01,4,0,1,1,0,0,0,0,28.32
+500553,Fri,23,Australia,Delhi,Female,31.0,Android,google,none,5,3,4.23,2,0,0,0,0,0,0,0,27.67
+500554,Wed,0,India,Chennai,Female,22.0,Android,organic,none,5,1,3.37,5,0,1,0,0,0,0,0,195.4
+500555,Mon,12,India,Chennai,Female,20.0,Android,organic,none,7,2,6.74,3,1,1,0,0,0,0,0,15.96
+500556,Tue,14,India,Mumbai,Female,33.0,Android,meta,crm_push,4,4,1.47,3,2,1,0,0,0,1,0,165.97
+500557,Thu,10,Australia,Pune,Male,36.0,Android,organic,lookalike,4,0,4.96,3,0,0,0,0,0,0,0,57.06
+500558,Mon,22,India,Bengaluru,Male,47.0,Android,organic,lookalike,4,4,2.59,4,1,0,1,0,0,0,0,209.28
+500559,Tue,3,India,Dubai,Male,39.0,Android,google,brand,6,5,4.67,3,0,0,1,0,0,1,0,1.44
+500560,Fri,7,India,Delhi,Male,43.0,iOS,organic,lookalike,8,2,9.56,1,1,1,0,0,0,1,0,20.08
+500561,Fri,6,India,Delhi,Unknown,22.0,Android,email,brand,8,3,7.78,5,1,1,0,0,0,0,0,55.28
+500562,Wed,12,Canada,Delhi,Female,34.0,Android,meta,lookalike,1,2,1.3,1,0,0,1,0,0,1,0,12.2
+500563,Sat,20,India,Hyderabad,Female,29.0,Android,affiliate,crm_push,4,1,2.34,3,0,1,0,0,0,0,0,19.37
+500564,Mon,4,India,Mumbai,Female,38.0,Android,google,remarketing,2,1,9.58,3,2,0,0,0,0,0,0,51.43
+500565,Fri,0,India,Pune,Female,26.0,Android,organic,generic,5,3,13.34,5,1,1,0,0,0,0,0,116.79
+500566,Wed,15,United States,Dubai,Male,46.0,iOS,referral,lookalike,4,4,1.61,4,3,0,0,0,0,0,0,123.08
+500567,Thu,10,India,Hyderabad,Female,29.0,Android,organic,lookalike,12,2,2.33,2,1,0,1,0,0,0,0,76.48
+500568,Thu,21,India,Pune,Female,38.0,iOS,organic,brand,3,4,8.02,6,3,1,0,0,0,0,0,191.76
+500569,Mon,17,United States,Pune,Female,20.0,Android,meta,remarketing,7,0,0.71,3,1,1,1,0,0,0,0,79.41
+500570,Thu,23,United States,Dubai,Male,33.0,Web,google,crm_push,4,2,0.89,1,1,1,0,0,0,0,0,1.93
+500571,Fri,8,India,Pune,Male,20.0,Android,email,crm_push,7,5,11.66,3,0,1,0,0,0,0,0,58.38
+500572,Thu,3,India,Pune,Male,33.0,Android,organic,remarketing,5,5,6.1,1,0,1,0,1,0,0,0,274.34
+500573,Fri,6,India,Mumbai,Male,27.0,Android,meta,crm_push,6,3,4.09,1,0,0,0,1,0,1,0,85.4
+500574,Wed,22,India,Mumbai,Female,41.0,Android,google,generic,6,2,1.97,0,2,1,0,0,0,0,0,93.29
+500575,Sun,6,India,Dubai,Male,46.0,Android,meta,none,4,2,2.02,4,1,0,0,0,0,1,0,9.69
+500576,Sun,12,India,Pune,Female,23.0,Android,referral,crm_push,0,1,12.09,5,0,0,1,0,0,0,0,35.66
+500577,Fri,18,Canada,Pune,Male,29.0,Android,meta,generic,6,2,7.95,4,1,0,0,0,1,0,0,149.86
+500578,Fri,6,India,Delhi,Male,26.0,Android,email,lookalike,5,2,1.41,2,2,1,0,0,0,0,0,9.35
+500579,Mon,20,United States,Hyderabad,Male,32.0,iOS,email,crm_push,2,2,5.67,3,0,0,0,0,0,0,0,146.23
+500580,Sun,6,India,Dubai,Female,18.0,Android,meta,none,5,4,0.69,1,2,0,1,0,0,1,0,68.1
+500581,Thu,12,UAE,Mumbai,Female,18.0,Web,google,crm_push,2,4,0.3,3,2,0,1,0,0,1,0,40.05
+500582,Fri,3,Canada,Delhi,Male,37.0,iOS,organic,generic,4,3,11.37,7,1,0,0,1,0,0,0,212.97
+500583,Mon,11,UAE,Bengaluru,Male,21.0,Web,organic,lookalike,2,2,9.03,1,2,0,0,0,0,0,0,2.39
+500584,Mon,7,India,Delhi,Female,25.0,Android,meta,none,12,4,13.02,4,3,1,0,1,0,0,0,209.14
+500585,Mon,15,India,Hyderabad,Male,24.0,Android,organic,lookalike,2,2,16.87,1,2,1,0,0,0,1,0,168.57
+500586,Tue,10,Canada,Bengaluru,Female,23.0,Android,organic,brand,6,4,4.7,4,0,1,0,0,0,0,0,346.49
+500587,Sun,3,India,Pune,Male,23.0,Android,organic,lookalike,6,3,6.77,2,0,0,1,0,1,0,0,43.13
+500588,Mon,20,India,Delhi,Male,24.0,iOS,organic,none,4,1,12.56,6,1,1,0,0,0,0,0,49.4
+500589,Mon,14,Australia,Hyderabad,Male,27.0,iOS,affiliate,remarketing,7,2,2.8,6,1,0,0,1,0,0,0,97.75
+500590,Sun,11,India,Dubai,Male,37.0,Android,organic,brand,7,0,0.32,6,0,0,0,0,0,0,0,9.35
+500591,Fri,22,India,Delhi,Male,35.0,iOS,organic,none,8,0,6.65,7,0,0,0,0,0,0,1,22.33
+500592,Mon,1,India,Hyderabad,Male,18.0,Android,email,lookalike,6,2,4.01,4,0,0,0,0,0,0,0,46.67
+500593,Mon,22,Canada,Dubai,Female,41.0,Android,meta,none,4,1,8.04,5,0,0,0,0,0,0,0,101.18
+500594,Tue,22,United States,Delhi,Female,30.0,Android,referral,generic,7,2,7.92,6,2,0,1,0,0,1,0,54.89
+500595,Tue,5,UAE,Dubai,Male,39.0,iOS,meta,none,6,2,5.47,1,3,0,0,0,0,0,0,20.86
+500596,Sun,17,India,Hyderabad,Female,25.0,Android,organic,remarketing,6,4,1.58,2,3,1,0,0,0,0,0,27.6
+500597,Sun,23,India,Pune,Unknown,49.0,iOS,organic,brand,5,1,18.88,2,2,1,0,0,0,0,0,110.8
+500598,Mon,21,India,London,Female,28.0,Android,referral,crm_push,4,1,6.71,6,2,1,1,0,0,0,0,131.15
+500599,Mon,11,India,Hyderabad,Male,26.0,Web,organic,none,1,3,6.51,0,2,0,0,0,1,0,0,45.84
+500600,Fri,15,India,London,Male,32.0,Android,google,generic,6,2,10.55,0,0,1,0,0,0,0,0,17.19
+500601,Fri,0,India,Chennai,Female,41.0,Android,google,remarketing,5,1,4.58,2,1,1,0,0,0,0,0,68.43
+500602,Tue,18,United States,Mumbai,Male,34.0,Android,email,generic,10,2,7.28,0,1,0,0,0,0,0,0,40.88
+500603,Fri,3,United Kingdom,London,Male,25.0,Android,affiliate,none,6,5,4.15,1,1,1,0,0,0,0,0,81.5
+500604,Sun,9,United States,Delhi,Female,18.0,iOS,google,brand,3,0,6.94,5,1,1,0,0,0,0,0,139.38
+500605,Sun,9,India,London,Female,26.0,Android,email,remarketing,7,1,6.37,3,3,1,0,1,0,0,0,60.07
+500606,Thu,23,India,London,Female,26.0,Android,referral,brand,5,2,2.09,0,0,0,1,0,0,0,0,185.72
+500607,Sat,6,India,Dubai,Male,40.0,Android,organic,brand,3,3,8.05,2,0,1,0,0,0,0,0,36.8
+500608,Wed,5,India,Bengaluru,Male,25.0,iOS,meta,lookalike,7,1,11.62,3,1,1,0,0,1,0,0,52.44
+500609,Sun,21,India,Bengaluru,Female,47.0,Android,referral,generic,8,2,8.93,2,2,0,0,0,0,0,1,67.64
+500610,Sun,11,India,Dubai,Male,29.0,Android,email,lookalike,9,2,12.79,5,3,1,0,0,0,0,0,101.53
+500611,Tue,9,United Kingdom,Dubai,Unknown,32.0,iOS,email,lookalike,7,1,2.46,2,2,1,1,0,1,0,0,60.19
+500612,Tue,11,India,Dubai,Male,33.0,Android,email,generic,7,1,3.37,1,1,1,0,0,0,0,0,133.33
+500613,Fri,12,India,Bengaluru,Female,33.0,Android,organic,remarketing,7,3,6.75,4,2,1,0,0,0,0,0,95.42
+500614,Wed,14,India,Hyderabad,Male,18.0,Android,affiliate,generic,2,4,4.64,3,2,0,0,0,0,1,0,34.47
+500615,Wed,20,India,Chennai,Female,29.0,Android,referral,crm_push,4,4,14.35,3,1,0,0,0,0,0,0,81.72
+500616,Sun,12,India,Bengaluru,Male,30.0,Android,meta,remarketing,6,0,9.53,4,0,0,1,0,0,0,0,30.47
+500617,Mon,18,United States,Hyderabad,Male,41.0,iOS,google,lookalike,6,6,11.5,0,2,0,0,0,0,0,0,100.86
+500618,Tue,15,India,Dubai,Female,41.0,Android,google,brand,11,2,2.55,1,0,0,0,0,0,0,0,84.78
+500619,Mon,10,United States,London,Male,30.0,iOS,meta,brand,5,1,5.45,2,0,0,0,0,0,0,0,15.62
+500620,Fri,0,India,Bengaluru,Male,32.0,Android,google,lookalike,2,5,14.57,4,3,0,0,1,0,0,0,96.46
+500621,Wed,17,UAE,Bengaluru,Female,33.0,Android,meta,remarketing,6,0,3.78,2,2,0,1,0,0,0,0,11.21
+500622,Mon,6,India,Dubai,Male,33.0,Android,meta,none,6,3,6.74,2,2,1,0,0,0,0,0,7.72
+500623,Wed,11,India,Dubai,Female,40.0,Android,email,crm_push,5,0,4.92,6,0,0,0,0,0,0,0,82.36
+500624,Sat,17,United Kingdom,Chennai,Male,29.0,iOS,organic,remarketing,4,2,5.81,1,1,0,0,0,0,0,0,32.45
+500625,Mon,11,India,Pune,Male,30.0,iOS,organic,generic,3,2,4.61,6,1,0,1,0,0,0,0,14.02
+500626,Sun,8,India,Pune,Female,32.0,iOS,affiliate,crm_push,4,2,3.82,2,0,0,1,0,0,0,0,350.08
+500627,Mon,16,India,Pune,Male,35.0,Android,email,generic,4,2,10.52,1,1,0,0,0,0,1,0,163.17
+500628,Wed,3,India,Dubai,Female,25.0,Android,google,remarketing,3,1,6.45,4,3,1,1,0,0,0,0,15.57
+500629,Fri,23,India,Delhi,Male,30.0,Android,organic,lookalike,6,5,7.45,1,0,0,0,0,0,0,0,230.03
+500630,Sun,23,India,Hyderabad,Female,27.0,Android,meta,lookalike,7,3,4.91,3,1,0,1,1,0,1,1,74.52
+500631,Sun,3,India,London,Male,33.0,Android,organic,generic,3,3,16.24,2,1,1,1,0,0,0,0,58.7
+500632,Sun,19,India,Hyderabad,Female,26.0,iOS,organic,crm_push,6,0,5.01,0,2,1,0,0,0,0,0,35.31
+500633,Sun,19,India,Pune,Male,38.0,Android,email,generic,4,2,10.23,0,1,0,0,0,0,0,0,31.02
+500634,Sat,0,Canada,Dubai,Male,22.0,Android,affiliate,crm_push,4,2,18.92,2,0,0,1,0,0,1,1,8.7
+500635,Thu,2,India,Chennai,Male,28.0,Android,email,brand,1,1,10.79,3,1,0,0,1,0,0,0,16.01
+500636,Thu,18,India,Pune,Male,22.0,Android,organic,remarketing,2,1,2.83,1,0,1,1,0,0,0,0,25.08
+500637,Tue,20,India,Dubai,Female,30.0,Android,google,lookalike,3,2,0.77,5,2,1,1,0,0,0,0,106.62
+500638,Sat,7,United Kingdom,London,Female,36.0,Android,organic,lookalike,5,2,15.58,4,1,1,0,0,0,0,0,257.44
+500639,Thu,20,India,Dubai,Male,29.0,Android,google,none,3,3,16.77,2,0,0,1,0,1,0,0,50.12
+500640,Sat,19,UAE,London,Female,24.0,Android,meta,crm_push,7,0,2.68,4,0,1,1,0,0,0,0,37.1
+500641,Wed,22,India,Dubai,Female,18.0,iOS,meta,none,4,0,7.39,3,0,0,0,0,0,0,0,156.78
+500642,Tue,0,India,Bengaluru,Male,18.0,Android,google,brand,4,0,2.07,3,1,0,0,0,0,0,0,91.34
+500643,Thu,5,India,Bengaluru,Female,26.0,Android,meta,lookalike,3,0,9.1,3,0,0,0,0,0,0,0,22.46
+500644,Sat,8,Canada,Bengaluru,Female,34.0,Android,email,none,5,1,13.14,7,3,0,0,0,0,0,0,61.81
+500645,Thu,17,India,Delhi,Female,18.0,Android,affiliate,none,8,2,0.95,1,1,0,1,0,0,1,0,171.97
+500646,Mon,8,India,Pune,Female,29.0,iOS,google,generic,6,2,1.77,3,4,0,0,0,0,1,0,86.3
+500647,Sun,22,India,Pune,Male,21.0,Android,google,generic,5,1,10.16,4,2,0,0,1,0,0,0,37.34
+500648,Mon,22,India,Chennai,Female,29.0,Android,referral,none,0,2,5.19,1,2,0,1,0,0,1,0,44.72
+500649,Thu,19,India,London,Unknown,33.0,iOS,organic,lookalike,8,0,12.35,2,1,1,1,0,0,0,0,183.1
+500650,Sat,9,India,Dubai,Male,19.0,Android,google,crm_push,4,1,8.85,4,0,0,1,0,0,1,0,98.5
+500651,Sat,15,UAE,Chennai,Male,24.0,iOS,meta,remarketing,5,3,7.56,1,2,1,0,0,0,0,0,57.08
+500652,Sat,20,India,Pune,Male,27.0,Android,organic,brand,6,5,3.39,4,0,1,0,0,0,0,0,90.69
+500653,Tue,11,India,Bengaluru,Male,40.0,iOS,organic,none,3,3,5.36,2,1,0,0,0,0,0,0,92.52
+500654,Sun,5,India,Delhi,Female,34.0,Android,google,none,5,4,9.74,1,0,0,1,0,0,1,0,67.02
+500655,Wed,13,India,Mumbai,Female,34.0,Android,google,none,6,2,13.0,2,2,1,0,0,0,0,0,79.01
+500656,Sat,21,India,Mumbai,Male,34.0,iOS,email,remarketing,5,2,2.0,5,2,0,0,0,0,0,0,34.84
+500657,Thu,7,India,Bengaluru,Female,35.0,Android,meta,brand,3,3,6.34,2,0,1,0,0,0,0,1,34.42
+500658,Wed,14,Canada,Bengaluru,Male,18.0,Android,organic,lookalike,3,1,2.15,1,1,0,1,0,0,0,0,33.14
+500659,Sat,9,India,Chennai,Female,18.0,Android,referral,none,3,5,8.92,2,0,0,0,0,0,0,0,3.16
+500660,Tue,4,India,Pune,Female,19.0,Android,referral,crm_push,11,3,0.72,3,1,0,0,0,0,0,0,140.9
+500661,Fri,19,India,Hyderabad,Female,26.0,Android,organic,generic,5,3,8.26,2,3,0,1,0,0,0,0,13.71
+500662,Tue,15,India,Dubai,Female,34.0,iOS,organic,none,8,1,10.21,5,0,0,0,0,0,1,0,7.91
+500663,Fri,23,Canada,London,Female,31.0,iOS,meta,none,8,1,3.49,5,0,1,0,0,0,1,0,43.97
+500664,Mon,7,India,London,Female,23.0,Android,organic,generic,5,3,0.57,3,0,1,0,0,0,0,0,52.21
+500665,Wed,10,United Kingdom,Dubai,Female,32.0,Android,affiliate,generic,5,2,11.05,3,3,1,0,0,0,0,0,24.43
+500666,Mon,2,India,Bengaluru,Female,18.0,Android,google,none,4,3,7.65,3,0,1,1,0,1,0,0,250.89
+500667,Sun,1,India,Bengaluru,Male,34.0,Android,email,crm_push,4,2,9.85,3,0,0,0,0,1,1,0,14.58
+500668,Wed,0,India,Mumbai,Female,26.0,Android,meta,none,4,0,0.93,2,0,0,1,0,0,1,0,68.22
+500669,Tue,0,India,Chennai,Female,47.0,Android,google,remarketing,2,1,5.15,4,2,0,1,0,0,0,0,75.46
+500670,Thu,19,India,Dubai,Female,23.0,Android,email,lookalike,2,1,5.93,5,1,1,0,0,0,0,0,85.24
+500671,Thu,9,UAE,Bengaluru,Female,18.0,Android,google,crm_push,3,1,4.1,2,0,1,0,0,0,0,0,126.34
+500672,Fri,17,India,London,Male,41.0,Android,meta,none,3,3,0.81,5,1,1,1,0,0,0,0,160.22
+500673,Thu,15,United Kingdom,Hyderabad,Male,20.0,iOS,google,lookalike,7,2,4.05,7,0,1,0,0,0,1,0,27.59
+500674,Wed,18,India,London,Male,30.0,Android,affiliate,lookalike,4,4,5.68,2,1,1,0,0,0,0,0,341.65
+500675,Sun,15,United States,Pune,Male,30.0,iOS,organic,remarketing,2,2,3.69,1,0,0,0,0,0,0,0,42.74
+500676,Thu,2,India,Hyderabad,Male,36.0,Android,organic,generic,4,3,7.53,2,2,0,0,0,0,0,0,122.65
+500677,Mon,6,UAE,Delhi,Female,25.0,Android,organic,brand,4,1,14.36,0,1,0,1,0,0,0,0,3.34
+500678,Sat,5,India,London,Male,29.0,Android,referral,crm_push,4,2,2.14,3,2,0,0,0,0,0,0,109.44
+500679,Thu,10,India,Dubai,Female,36.0,Android,organic,crm_push,8,3,4.6,1,0,0,1,0,0,1,0,141.97
+500680,Mon,4,India,Bengaluru,Male,18.0,Web,organic,crm_push,3,1,25.15,4,0,1,0,0,0,0,1,9.17
+500681,Fri,8,India,Bengaluru,Female,35.0,Android,organic,lookalike,6,3,11.5,3,1,1,0,0,0,1,0,29.23
+500682,Fri,3,India,Hyderabad,Female,36.0,Android,affiliate,remarketing,4,1,9.69,3,2,1,1,0,0,0,0,47.5
+500683,Tue,11,India,Chennai,Female,35.0,iOS,referral,crm_push,3,1,8.29,5,2,0,0,0,0,0,1,115.49
+500684,Tue,9,India,Delhi,Male,33.0,Android,email,lookalike,5,2,8.9,2,3,0,0,0,0,0,0,60.34
+500685,Tue,2,India,London,Male,25.0,Android,google,none,5,3,8.48,4,0,1,0,0,0,0,0,79.84
+500686,Mon,22,India,Pune,Unknown,25.0,Android,organic,remarketing,4,1,5.68,1,0,1,0,0,1,1,0,36.8
+500687,Tue,6,India,Hyderabad,Male,32.0,Android,affiliate,brand,5,1,5.54,4,1,0,0,0,0,1,0,163.11
+500688,Fri,1,UAE,Chennai,Male,30.0,Android,organic,remarketing,5,4,3.51,2,1,1,1,1,1,1,0,36.51
+500689,Thu,7,Canada,Dubai,Male,26.0,Android,organic,generic,9,2,3.57,1,2,0,0,0,0,0,0,51.44
+500690,Mon,12,India,Mumbai,Male,37.0,Android,google,brand,7,0,1.75,5,0,0,0,0,1,0,0,46.69
+500691,Tue,14,India,Delhi,Female,36.0,Android,organic,none,7,2,1.31,2,1,1,0,0,0,0,0,123.19
+500692,Tue,0,India,Pune,Female,39.0,Android,affiliate,brand,7,1,5.57,3,2,1,0,0,1,1,0,137.64
+500693,Fri,1,India,Delhi,Male,49.0,Android,organic,none,8,2,10.36,1,0,1,0,0,0,0,0,189.03
+500694,Thu,17,India,London,Male,45.0,Android,affiliate,brand,2,4,4.57,4,1,0,0,0,1,1,0,20.9
+500695,Wed,23,India,Mumbai,Unknown,27.0,Android,meta,lookalike,6,3,11.34,2,0,0,1,1,0,0,0,193.55
+500696,Thu,18,India,Delhi,Male,29.0,Android,google,none,5,0,3.99,4,1,1,1,0,0,0,0,27.38
+500697,Tue,6,India,Dubai,Male,24.0,Android,referral,brand,5,2,2.8,7,1,1,1,1,0,0,0,168.32
+500698,Tue,21,United States,Hyderabad,Male,41.0,Android,google,lookalike,3,2,1.87,1,0,0,0,0,1,0,0,155.66
+500699,Thu,1,India,Hyderabad,Male,28.0,Android,meta,generic,4,3,3.51,3,3,1,1,0,0,1,1,48.52
+500700,Thu,15,UAE,Delhi,Male,29.0,iOS,organic,brand,3,2,7.32,3,0,1,0,0,0,0,0,128.13
+500701,Fri,15,India,Bengaluru,Unknown,31.0,Web,referral,crm_push,6,1,10.56,5,1,1,1,0,0,0,0,108.78
+500702,Wed,22,India,London,Female,30.0,Android,referral,lookalike,6,1,2.39,1,0,1,0,0,0,0,0,3.68
+500703,Sun,3,India,Delhi,Male,21.0,Android,email,lookalike,6,1,7.19,3,2,0,0,0,0,0,0,2.12
+500704,Mon,16,United States,Dubai,Male,43.0,Android,email,remarketing,4,3,3.54,2,1,0,0,0,0,0,0,7.36
+500705,Mon,13,India,Dubai,Female,46.0,iOS,organic,none,5,2,11.8,3,0,0,0,0,0,0,0,236.93
+500706,Sun,7,UAE,Dubai,Female,26.0,Android,google,brand,5,1,5.79,4,1,0,0,0,0,0,0,99.83
+500707,Wed,8,India,London,Male,42.0,Android,organic,brand,7,1,20.66,6,3,1,0,0,1,0,1,42.82
+500708,Fri,7,India,Hyderabad,Male,27.0,Android,meta,remarketing,3,3,9.55,4,0,0,0,0,0,1,0,19.96
+500709,Thu,17,India,Pune,Female,42.0,iOS,organic,none,2,3,6.23,3,1,0,0,0,0,0,0,236.21
+500710,Tue,6,India,Delhi,Male,40.0,Android,google,none,3,0,10.53,2,1,1,0,0,0,0,0,22.41
+500711,Sun,12,India,Mumbai,Male,24.0,Android,email,lookalike,2,1,18.31,7,1,1,0,0,0,0,0,62.77
+500712,Sun,0,India,Mumbai,Male,33.0,Android,affiliate,lookalike,3,1,15.01,6,0,0,0,0,0,0,0,22.29
+500713,Wed,20,India,Pune,Male,38.0,Web,google,remarketing,7,2,3.33,3,1,0,0,0,0,0,0,103.8
+500714,Sun,7,India,Pune,Male,44.0,Android,email,generic,4,0,5.11,1,2,0,0,0,0,0,0,15.15
+500715,Fri,8,India,Pune,Female,46.0,Android,organic,lookalike,3,1,3.77,4,0,0,0,0,0,1,0,72.4
+500716,Sat,18,India,London,Female,42.0,Android,meta,brand,5,1,7.72,2,2,1,0,0,0,0,1,83.9
+500717,Wed,23,UAE,Pune,Male,31.0,Android,meta,generic,7,3,4.34,4,1,0,1,0,1,0,0,265.84
+500718,Tue,14,India,Delhi,Male,33.0,Android,referral,crm_push,3,3,9.02,3,0,0,0,1,0,0,0,73.89
+500719,Mon,2,India,Pune,Male,31.0,Android,organic,remarketing,3,3,4.52,7,1,0,1,0,0,0,0,53.09
+500720,Thu,23,India,Pune,Female,23.0,Android,organic,lookalike,7,2,10.21,5,0,0,0,0,0,0,0,39.9
+500721,Fri,20,India,Dubai,Male,34.0,Web,google,lookalike,7,2,10.57,1,3,0,0,1,0,0,0,8.95
+500722,Mon,22,India,Bengaluru,Female,28.0,Android,email,remarketing,4,0,8.69,3,0,1,1,0,0,0,1,102.4
+500723,Tue,10,India,Dubai,Male,28.0,Android,organic,none,7,2,8.56,2,1,0,0,0,0,0,1,22.71
+500724,Wed,13,India,Mumbai,Female,22.0,Android,organic,none,5,2,10.89,2,1,0,1,0,0,0,1,29.99
+500725,Fri,11,UAE,London,Male,29.0,Android,organic,lookalike,4,3,3.86,3,1,0,0,0,1,0,0,0.95
+500726,Sun,21,India,Delhi,Female,22.0,Android,google,lookalike,8,3,8.23,4,1,0,0,0,0,0,0,86.07
+500727,Sat,4,India,London,Male,45.0,Android,referral,none,6,3,1.77,3,0,0,0,0,1,0,0,113.79
+500728,Fri,1,United States,Hyderabad,Male,30.0,Android,organic,none,7,0,9.93,3,1,1,1,0,0,0,1,7.93
+500729,Mon,22,Australia,Chennai,Male,36.0,Android,organic,brand,2,1,6.78,2,1,0,1,1,0,0,0,11.79
+500730,Sun,6,India,Dubai,Male,19.0,iOS,organic,brand,7,1,8.97,3,1,0,1,0,0,0,0,138.51
+500731,Mon,4,India,Chennai,Male,30.0,Android,organic,lookalike,4,1,6.69,4,1,1,0,0,0,1,0,106.16
+500732,Tue,2,United Kingdom,Bengaluru,Female,18.0,Android,meta,lookalike,2,1,0.89,1,2,1,1,0,0,0,0,10.57
+500733,Sat,9,India,Bengaluru,Male,42.0,iOS,meta,lookalike,2,2,8.32,0,2,1,0,0,0,0,0,43.95
+500734,Mon,10,India,Hyderabad,Male,31.0,Android,organic,none,6,1,2.17,4,0,0,0,0,0,1,0,29.89
+500735,Fri,7,India,London,Unknown,36.0,Web,referral,lookalike,3,2,4.89,1,1,1,0,1,0,0,0,14.32
+500736,Sun,5,India,Bengaluru,Male,26.0,Web,google,generic,5,1,0.13,0,1,1,0,0,0,0,1,46.15
+500737,Sat,11,Canada,Delhi,Female,35.0,iOS,affiliate,brand,6,1,2.04,5,1,1,0,0,0,0,0,152.82
+500738,Thu,12,India,Mumbai,Female,45.0,Web,organic,lookalike,7,5,5.01,4,0,0,0,0,0,0,0,135.54
+500739,Sun,1,India,London,Female,34.0,Android,meta,lookalike,3,0,1.11,1,0,0,0,0,0,0,0,70.57
+500740,Tue,22,India,Pune,Male,29.0,Android,email,brand,3,1,3.8,1,1,0,1,0,0,0,0,65.62
+500741,Tue,20,United States,Bengaluru,Female,28.0,iOS,organic,none,7,3,4.86,3,1,0,1,1,0,0,0,85.05
+500742,Thu,15,Canada,Chennai,Male,18.0,Android,email,none,6,0,12.39,1,1,1,0,0,0,0,0,296.14
+500743,Tue,23,India,Delhi,Male,31.0,iOS,referral,crm_push,7,0,4.15,3,1,0,0,0,0,1,0,138.67
+500744,Sat,21,India,Bengaluru,Male,32.0,Android,meta,lookalike,4,4,5.3,8,4,1,0,0,0,1,0,19.19
+500745,Tue,12,United States,Delhi,Female,37.0,Android,referral,remarketing,6,2,9.7,2,1,0,0,0,0,1,0,50.31
+500746,Mon,8,United States,Bengaluru,Male,36.0,Android,google,generic,5,1,8.36,3,1,1,1,0,0,0,0,109.79
+500747,Tue,12,Australia,Dubai,Male,28.0,Android,google,none,3,0,6.03,0,1,0,0,1,0,0,1,150.79
+500748,Fri,14,India,Delhi,Male,37.0,Android,organic,crm_push,4,0,3.09,6,2,1,0,0,0,0,0,7.07
+500749,Mon,7,India,Pune,Female,43.0,Android,email,crm_push,7,1,3.19,2,1,1,0,1,1,0,0,94.7
+500750,Wed,22,India,London,Female,44.0,Android,organic,brand,4,1,6.33,4,1,0,0,0,0,0,0,13.27
+500751,Fri,16,India,Delhi,Female,27.0,Android,organic,none,5,4,7.13,5,2,1,0,0,0,0,0,8.96
+500752,Wed,9,United States,Hyderabad,Male,32.0,iOS,meta,generic,5,2,3.72,1,3,0,0,0,0,0,0,148.39
+500753,Sat,8,India,London,Female,37.0,Web,meta,remarketing,12,2,6.66,4,1,0,0,0,0,1,0,123.57
+500754,Mon,23,India,Bengaluru,Male,22.0,Android,google,generic,5,2,9.51,4,0,0,0,0,0,0,0,109.82
+500755,Fri,16,India,Pune,Female,32.0,Android,meta,crm_push,6,1,3.92,1,1,0,1,0,0,0,0,1.96
+500756,Sun,16,India,London,Male,28.0,iOS,google,crm_push,5,0,4.19,1,1,1,1,0,0,0,0,23.75
+500757,Sun,18,India,London,Male,37.0,iOS,organic,generic,5,0,10.74,4,0,0,1,0,1,0,0,45.13
+500758,Sun,18,India,Chennai,Male,28.0,Android,google,brand,4,1,9.21,3,1,1,0,0,0,0,0,169.65
+500759,Mon,1,India,Bengaluru,Female,30.0,Android,organic,brand,7,5,8.38,4,1,0,1,0,1,0,1,59.25
+500760,Sat,10,UAE,Delhi,Female,25.0,Android,google,crm_push,3,2,1.9,2,1,0,0,0,0,0,0,55.23
+500761,Sun,7,United States,Bengaluru,Female,18.0,Android,email,remarketing,1,1,9.5,5,1,0,0,0,0,0,0,0.37
+500762,Wed,20,India,Dubai,Male,26.0,Android,google,crm_push,5,1,10.61,0,1,0,0,0,0,0,0,141.64
+500763,Thu,16,India,London,Female,40.0,Android,google,generic,6,3,12.78,0,1,1,0,0,0,0,0,70.38
+500764,Sat,0,India,Chennai,Male,18.0,Android,email,lookalike,6,6,6.39,0,0,0,1,0,0,1,0,37.14
+500765,Sat,17,India,Mumbai,Male,33.0,Android,referral,lookalike,4,1,5.38,3,1,1,1,0,0,0,1,14.0
+500766,Sat,6,India,Chennai,Male,32.0,iOS,organic,remarketing,4,2,11.52,3,0,1,1,0,0,0,0,43.49
+500767,Tue,8,Australia,Delhi,Male,26.0,Android,email,remarketing,2,2,0.8,2,1,0,1,0,0,0,0,21.82
+500768,Sat,8,India,Chennai,Male,38.0,Android,meta,remarketing,6,2,12.7,5,0,0,1,0,0,0,0,47.86
+500769,Sun,9,India,Dubai,Female,29.0,Android,meta,brand,4,2,19.34,4,1,0,0,0,0,0,0,29.28
+500770,Thu,15,India,Chennai,Male,29.0,iOS,organic,crm_push,10,2,15.52,1,0,1,0,0,0,0,0,3.6
+500771,Sun,10,India,Dubai,Male,42.0,Android,google,generic,10,1,3.45,1,0,1,1,0,0,0,0,390.83
+500772,Sat,5,India,London,Female,18.0,Android,organic,crm_push,6,1,5.78,5,2,1,1,0,0,1,0,47.51
+500773,Thu,11,India,Delhi,Female,18.0,Android,organic,generic,6,3,8.31,1,1,1,0,0,0,0,0,134.37
+500774,Mon,20,India,Bengaluru,Male,44.0,Android,organic,lookalike,6,1,2.42,1,2,1,1,0,0,0,0,9.88
+500775,Mon,9,India,Pune,Male,40.0,Android,meta,crm_push,3,0,1.25,4,3,1,1,1,0,0,0,75.07
+500776,Tue,15,India,Hyderabad,Male,39.0,Android,meta,generic,6,1,3.1,1,0,0,1,0,1,0,0,59.54
+500777,Sun,23,India,Pune,Male,54.0,Web,google,generic,5,3,1.95,5,2,1,0,0,1,1,0,245.65
+500778,Thu,21,UAE,Hyderabad,Male,38.0,iOS,organic,lookalike,5,0,5.11,2,1,0,0,0,0,1,0,130.21
+500779,Sun,23,India,Chennai,Male,33.0,Android,email,none,6,1,3.57,5,1,0,1,0,0,0,1,42.66
+500780,Sat,13,United States,London,Female,20.0,Android,google,crm_push,7,2,4.24,1,1,0,1,0,0,0,0,126.51
+500781,Fri,16,India,Mumbai,Female,32.0,Android,meta,crm_push,7,1,7.23,3,0,0,0,0,0,0,0,41.94
+500782,Mon,19,India,Hyderabad,Male,25.0,Android,organic,brand,3,2,11.74,6,1,0,0,0,0,0,0,114.44
+500783,Sat,4,UAE,Pune,Male,30.0,Android,referral,crm_push,6,2,12.8,4,1,1,0,0,0,0,0,27.56
+500784,Thu,3,India,Hyderabad,Male,18.0,Android,meta,lookalike,5,2,5.31,2,1,1,0,0,0,0,0,37.34
+500785,Wed,21,United States,Hyderabad,Male,18.0,Android,google,generic,5,0,7.72,4,0,0,1,0,1,0,0,74.44
+500786,Sat,12,India,Mumbai,Female,28.0,iOS,referral,lookalike,5,3,6.45,4,1,1,0,1,0,0,0,62.28
+500787,Sun,6,India,Hyderabad,Male,33.0,Android,email,lookalike,3,1,6.5,3,0,0,0,0,0,0,0,40.27
+500788,Mon,10,India,Bengaluru,Unknown,25.0,Android,organic,lookalike,5,3,6.37,2,1,1,0,0,1,0,0,221.97
+500789,Tue,10,United States,London,Female,30.0,Android,google,crm_push,5,2,1.52,4,0,1,1,0,0,0,0,56.1
+500790,Thu,23,United Kingdom,Chennai,Male,25.0,Android,meta,remarketing,5,4,8.21,2,1,0,1,0,0,0,0,102.2
+500791,Mon,23,UAE,Mumbai,Unknown,23.0,Android,affiliate,lookalike,2,5,6.68,5,2,0,0,0,0,0,0,43.16
+500792,Tue,20,UAE,London,Female,37.0,Android,email,generic,1,0,3.63,3,2,1,0,0,0,0,0,102.78
+500793,Tue,23,India,Mumbai,Female,24.0,Android,organic,brand,7,3,4.18,2,0,0,0,0,0,0,1,125.76
+500794,Wed,11,India,Bengaluru,Male,22.0,iOS,email,crm_push,5,0,10.25,5,0,0,0,0,0,0,0,63.37
+500795,Tue,2,India,London,Female,49.0,Android,google,remarketing,8,2,1.23,5,1,1,0,0,0,0,0,2.66
+500796,Mon,11,India,Mumbai,Female,34.0,Android,organic,remarketing,5,1,2.16,7,0,0,0,0,0,0,0,56.13
+500797,Mon,2,India,Dubai,Female,33.0,iOS,google,lookalike,4,1,2.86,1,1,1,0,0,0,1,0,183.33
+500798,Sat,0,India,Mumbai,Unknown,26.0,Android,google,generic,5,1,20.11,7,2,0,0,0,0,0,0,7.01
+500799,Fri,9,India,Pune,Unknown,37.0,iOS,organic,brand,3,1,4.18,1,0,0,1,0,0,0,0,70.21

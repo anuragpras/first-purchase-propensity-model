@@ -1,0 +1,10 @@
+{
+  "model": "RandomForest open-source baseline",
+  "test_auc": 0.7071,
+  "outputs": [
+    "outputs/all_predicted_users.csv",
+    "outputs/top_10pct_users.csv",
+    "outputs/model_analysis_report.xlsx",
+    "models/propensity_model.pkl"
+  ]
+}
