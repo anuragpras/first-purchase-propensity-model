@@ -1,6 +1,7 @@
 # First Purchase Propensity Model
 
 ## Overview
+<img width="1536" height="1024" alt="one to many" src="https://github.com/user-attachments/assets/176900fc-d436-4a01-bcd6-21cf966e6208" />
 
 This repository contains an open-source machine learning pipeline for predicting which users are most likely to make their first purchase or first recharge.
 
